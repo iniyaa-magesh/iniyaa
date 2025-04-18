@@ -1,0 +1,1721 @@
+Year,Province,Metro,Ensemble_Pred,Predicted_PR_Count
+2018,Alberta Total,Brooks,510.12113702003666,510
+2018,Alberta Total,Calgary,18588.24846355451,18588
+2018,Alberta Total,Camrose,231.354470355999,231
+2018,Alberta Total,Canmore,271.63780369198565,272
+2018,Alberta Total,Edmonton,15013.905164690153,15014
+2018,Alberta Total,Grande Prairie,544.7544703507507,545
+2018,Alberta Total,High River,249.27113702438766,249
+2018,Alberta Total,Lacombe,214.67113702248136,215
+2018,Alberta Total,Lethbridge,650.7544703533409,651
+2018,Alberta Total,Lloydminster (Alberta part),268.4711370216131,268
+2018,Alberta Total,Medicine Hat,393.97113702148215,394
+2018,Alberta Total,Okotoks,242.67113702547422,243
+2018,Alberta Total,Other - Alberta,1957.921137019343,1958
+2018,Alberta Total,Red Deer,696.321137018271,696
+2018,Alberta Total,Strathmore,184.52113702648316,185
+2018,Alberta Total,Sylvan Lake,190.60447035689154,191
+2018,Alberta Total,Wetaskiwin,206.8211370248436,207
+2018,Alberta Total,Wood Buffalo,893.8878036852238,894
+2018,British Columbia Total,Abbotsford - Mission,1173.8220043697725,1174
+2018,British Columbia Total,Campbell River,214.25533770368799,214
+2018,British Columbia Total,Chilliwack,366.02200436857447,366
+2018,British Columbia Total,Courtenay,274.57200436836104,275
+2018,British Columbia Total,Cranbrook,213.17200436875393,213
+2018,British Columbia Total,Dawson Creek,248.43867103780227,248
+2018,British Columbia Total,Duncan,234.38867103546912,234
+2018,British Columbia Total,Fort St. John,362.77200436787115,363
+2018,British Columbia Total,Kamloops,447.02200437042256,447
+2018,British Columbia Total,Kelowna,812.1553377041051,812
+2018,British Columbia Total,Ladysmith,174.02200436880244,174
+2018,British Columbia Total,Nanaimo,464.65533769937576,465
+2018,British Columbia Total,Nelson,232.6053377043234,233
+2018,British Columbia Total,Other - British Columbia,1463.672004369069,1464
+2018,British Columbia Total,Parksville,189.22200437430791,189
+2018,British Columbia Total,Penticton,252.5553377026451,253
+2018,British Columbia Total,Port Alberni,182.65533770398872,183
+2018,British Columbia Total,Powell River,183.5720043705244,184
+2018,British Columbia Total,Prince George,424.68867103483853,425
+2018,British Columbia Total,Prince Rupert,186.8720043738277,187
+2018,British Columbia Total,Quesnel,191.23867103732206,191
+2018,British Columbia Total,Salmon Arm,210.6886710347997,211
+2018,British Columbia Total,Squamish,305.70533770494916,306
+2018,British Columbia Total,Terrace,224.42200437001026,224
+2018,British Columbia Total,Trail,184.57200436968526,185
+2018,British Columbia Total,Vancouver,34979.9190493435,34980
+2018,British Columbia Total,Vernon,308.8053377011026,309
+2018,British Columbia Total,Victoria,1654.3220043621668,1654
+2018,British Columbia Total,Williams Lake,209.87200437229006,210
+2018,Manitoba Total,Brandon,746.4708487511361,746
+2018,Manitoba Total,Other - Manitoba,1107.1541820762525,1107
+2018,Manitoba Total,Portage la Prairie,236.77084874700344,237
+2018,Manitoba Total,Steinbach,338.4375154150671,338
+2018,Manitoba Total,Thompson,319.47084874381653,319
+2018,Manitoba Total,Winkler,544.9375154136701,545
+2018,Manitoba Total,Winnipeg,11797.282080850136,11797
+2018,New Brunswick Total,Bathurst,232.20419237942082,232
+2018,New Brunswick Total,Campbellton (New Brunswick part),177.77085904266778,178
+2018,New Brunswick Total,Edmundston,251.4375257090628,251
+2018,New Brunswick Total,Fredericton,1122.5375257012872,1123
+2018,New Brunswick Total,Miramichi,220.00419237755332,220
+2018,New Brunswick Total,Moncton,1537.0375257026358,1537
+2018,New Brunswick Total,Other - New Brunswick,704.820859041266,705
+2018,New Brunswick Total,Saint John,836.1541923727706,836
+2018,Newfoundland and Labrador Total,Corner Brook,221.7540924276508,222
+2018,Newfoundland and Labrador Total,Gander,192.63742575775362,193
+2018,Newfoundland and Labrador Total,Grand Falls-Windsor,176.03742576074646,176
+2018,Newfoundland and Labrador Total,Other - Newfoundland and Labrador,469.25409242812617,469
+2018,Newfoundland and Labrador Total,St. John's,1079.4707590893504,1079
+2018,Northwest Territories Total,Other - Northwest Territories,166.42056265316316,166
+2018,Northwest Territories Total,"Territories (outside Census agglomeration, Northwest Territories)",177.0538959899259,177
+2018,Northwest Territories Total,Yellowknife,320.50389598356674,321
+2018,Nova Scotia Total,Cape Breton,355.9708713623095,356
+2018,Nova Scotia Total,Halifax,4449.123506514075,4449
+2018,Nova Scotia Total,Kentville,233.88753803202238,234
+2018,Nova Scotia Total,New Glasgow,207.93753803097462,208
+2018,Nova Scotia Total,Other - Nova Scotia,615.5375380313869,616
+2018,Nova Scotia Total,Truro,260.0375380289131,260
+2018,Nunavut Total,Other - Nunavut,166.42106424855703,166
+2018,Nunavut Total,"Territories (outside Census agglomeration, Nunavut)",177.83773091620353,178
+2018,Ontario Total,Barrie,591.6165598437115,592
+2018,Ontario Total,Belleville - Quinte West,295.36655984826615,295
+2018,Ontario Total,Brantford,392.38322651726594,392
+2018,Ontario Total,Brockville,195.3332265132545,195
+2018,Ontario Total,Centre Wellington,173.48322651092133,173
+2018,Ontario Total,Chatham-Kent,271.54989318156066,272
+2018,Ontario Total,Cobourg,178.63322651079037,179
+2018,Ontario Total,Collingwood,193.6665598507545,194
+2018,Ontario Total,Cornwall,268.4498931829625,268
+2018,Ontario Total,Elliot Lake,166.58322651151795,167
+2018,Ontario Total,Essa,188.66655984669939,189
+2018,Ontario Total,Greater Sudbury,440.1332265121,440
+2018,Ontario Total,Guelph,869.1332265073803,869
+2018,Ontario Total,Hamilton,3216.655581918728,3217
+2018,Ontario Total,Hawkesbury (Ontario part),183.3165598475822,183
+2018,Ontario Total,Ingersoll,168.96655984849897,169
+2018,Ontario Total,Kawartha Lakes,181.03322651019374,181
+2018,Ontario Total,Kenora,170.76655985032767,171
+2018,Ontario Total,Kingston,593.3665598459088,593
+2018,Ontario Total,Kitchener - Cambridge - Waterloo,3737.525905267996,3738
+2018,Ontario Total,London,2481.799893176438,2482
+2018,Ontario Total,Midland,179.14989317855813,179
+2018,Ontario Total,Norfolk,225.43322651171198,225
+2018,Ontario Total,North Bay,220.2165598504829,220
+2018,Ontario Total,Orillia,196.516559849537,197
+2018,Ontario Total,Oshawa,933.4332265117071,933
+2018,Ontario Total,Other - Ontario,1074.8832265112803,1075
+2018,Ontario Total,Ottawa - Gatineau (Ontario part),9800.007807095613,9800
+2018,Ontario Total,Owen Sound,194.8332265159466,195
+2018,Ontario Total,Pembroke,168.883226515413,169
+2018,Ontario Total,Petawawa,172.2832265134582,172
+2018,Ontario Total,Peterborough,388.79989318131817,389
+2018,Ontario Total,Port Hope,170.39989318196814,170
+2018,Ontario Total,Sarnia,292.59989317683613,293
+2018,Ontario Total,Sault Ste. Marie,312.7998931792421,313
+2018,Ontario Total,St. Catharines - Niagara,1226.7665598445456,1227
+2018,Ontario Total,Stratford,214.31655985080786,214
+2018,Ontario Total,Thunder Bay,448.9165598460688,449
+2018,Ontario Total,Tillsonburg,169.44989318025586,169
+2018,Ontario Total,Timmins,219.49989318049836,219
+2018,Ontario Total,Toronto,104995.52959491998,104996
+2018,Ontario Total,Wasaga Beach,172.18322651286644,172
+2018,Ontario Total,Windsor,2068.866559844517,2069
+2018,Ontario Total,Woodstock,216.84989318197785,217
+2018,Prince Edward Island Total,Charlottetown,1379.2047045898305,1379
+2018,Prince Edward Island Total,Other - Prince Edward Island,371.73803792767495,372
+2018,Prince Edward Island Total,Summerside,293.7880379205251,294
+2018,Province/territory not stated,Other ,173.33734927914935,173
+2018,Quebec Total,Alma,174.08935816017635,174
+2018,Quebec Total,Amos,168.9560248256255,169
+2018,Quebec Total,Baie-Comeau,172.08935816592918,172
+2018,Quebec Total,Cowansville,168.4393581628733,168
+2018,Quebec Total,Dolbeau-Mistassini,167.45602483075749,167
+2018,Quebec Total,Drummondville,297.3393581654878,297
+2018,Quebec Total,Granby,286.28935816307705,286
+2018,Quebec Total,Hawkesbury (Quebec part),166.42269149910246,166
+2018,Quebec Total,Joliette,242.5560248282206,243
+2018,Quebec Total,Lachute,166.77269149339327,167
+2018,Quebec Total,Matane,168.8560248297825,169
+2018,Quebec Total,Montréal,40375.48567284792,40375
+2018,Quebec Total,Other - Quebec,745.7560248257128,746
+2018,Quebec Total,Ottawa - Gatineau (Quebec part),1018.5726914919429,1019
+2018,Quebec Total,Québec,2511.856024822817,2512
+2018,Quebec Total,Rimouski,247.6893581639841,248
+2018,Quebec Total,Rivière-du-Loup,181.53935816351844,182
+2018,Quebec Total,Rouyn-Noranda,236.02269149612417,236
+2018,Quebec Total,Saguenay,264.2393581645516,264
+2018,Quebec Total,Saint-Georges,202.3893581617043,202
+2018,Quebec Total,Saint-Hyacinthe,271.30602483143656,271
+2018,Quebec Total,Sainte-Agathe-des-Monts,170.07269149620663,170
+2018,Quebec Total,Sainte-Marie,173.43935816227668,173
+2018,Quebec Total,Salaberry-de-Valleyfield,179.539358160448,180
+2018,Quebec Total,Sept-Îles,180.65602483041795,181
+2018,Quebec Total,Shawinigan,183.05602482773554,183
+2018,Quebec Total,Sherbrooke,922.2060248234864,922
+2018,Quebec Total,Sorel-Tracy,172.82269149766668,173
+2018,Quebec Total,Thetford Mines,179.75602483383764,180
+2018,Quebec Total,Trois-Rivières,410.50602482650345,411
+2018,Quebec Total,Val-d'Or,183.07269150025692,183
+2018,Quebec Total,Victoriaville,242.906024831131,243
+2018,Saskatchewan Total,Estevan,275.9042639929172,276
+2018,Saskatchewan Total,Lloydminster (Saskatchewan part),303.15426399588097,303
+2018,Saskatchewan Total,Moose Jaw,421.7375973272983,422
+2018,Saskatchewan Total,North Battleford,299.63759733097993,300
+2018,Saskatchewan Total,Other - Saskatchewan,1367.2709306551358,1367
+2018,Saskatchewan Total,Prince Albert,517.1875973313291,517
+2018,Saskatchewan Total,Regina,4601.16912013849,4601
+2018,Saskatchewan Total,Saskatoon,4714.256216703032,4714
+2018,Saskatchewan Total,Swift Current,302.82093066489534,303
+2018,Saskatchewan Total,Weyburn,256.23759732822475,256
+2018,Saskatchewan Total,Yorkton,315.03759733024265,315
+2018,Yukon Total,Other - Yukon,166.75396749437024,167
+2018,Yukon Total,"Territories (outside Census agglomeration, Yukon)",191.10396749661126,191
+2018,Yukon Total,Whitehorse,381.1873008279267,381
+2019,Alberta Total,Brooks,651.3256715048562,651
+2019,Alberta Total,Calgary,18836.886331372665,18837
+2019,Alberta Total,Camrose,271.7423381741519,272
+2019,Alberta Total,Canmore,323.9756715101385,324
+2019,Alberta Total,Edmonton,15318.693032508307,15319
+2019,Alberta Total,Grande Prairie,582.0090048355702,582
+2019,Alberta Total,High River,284.30900484254056,284
+2019,Alberta Total,Lacombe,257.05900484063426,257
+2019,Alberta Total,Lethbridge,724.4090048381604,724
+2019,Alberta Total,Lloydminster (Alberta part),293.50900483976596,294
+2019,Alberta Total,Medicine Hat,450.809004839635,451
+2019,Alberta Total,Okotoks,290.5423381769604,291
+2019,Alberta Total,Other - Alberta,2046.4923381708293,2046
+2019,Alberta Total,Red Deer,738.2756715030905,738
+2019,Alberta Total,Strathmore,242.39233817796935,242
+2019,Alberta Total,Sylvan Lake,231.82567150837775,232
+2019,Alberta Total,Wetaskiwin,265.99233817632984,266
+2019,Alberta Total,Wood Buffalo,915.3756715033767,915
+2019,British Columbia Total,Abbotsford - Mission,1235.2098721879254,1235
+2019,British Columbia Total,Campbell River,268.3265388551742,268
+2019,British Columbia Total,Chilliwack,426.4432055200607,426
+2019,British Columbia Total,Courtenay,322.5765388531806,323
+2019,British Columbia Total,Cranbrook,259.09320552024013,259
+2019,British Columbia Total,Dawson Creek,287.29320552260725,287
+2019,British Columbia Total,Duncan,279.176538853622,279
+2019,British Columbia Total,Fort St. John,383.14320551935737,383
+2019,British Columbia Total,Kamloops,504.87653885524213,505
+2019,British Columbia Total,Kelowna,899.6098721889247,900
+2019,British Columbia Total,Ladysmith,217.62653885362198,218
+2019,British Columbia Total,Nanaimo,513.0098721842098,513
+2019,British Columbia Total,Nelson,280.82653885580964,281
+2019,British Columbia Total,Other - British Columbia,1553.3765388538886,1553
+2019,British Columbia Total,Parksville,234.9098721924608,235
+2019,British Columbia Total,Penticton,295.44320552079796,295
+2019,British Columbia Total,Port Alberni,232.57653885547495,233
+2019,British Columbia Total,Powell River,225.1098721886773,225
+2019,British Columbia Total,Prince George,476.64320551965807,477
+2019,British Columbia Total,Prince Rupert,234.50987219198058,235
+2019,British Columbia Total,Quesnel,234.77653885547494,235
+2019,British Columbia Total,Salmon Arm,248.05987218628593,248
+2019,British Columbia Total,Squamish,365.6098721897687,366
+2019,British Columbia Total,Terrace,264.5932055214965,265
+2019,British Columbia Total,Trail,234.54320552117147,235
+2019,British Columbia Total,Vancouver,36499.15691716165,36499
+2019,British Columbia Total,Vernon,358.6765388525888,359
+2019,British Columbia Total,Victoria,1786.293205513653,1786
+2019,British Columbia Total,Williams Lake,251.77653885710959,252
+2019,Manitoba Total,Brandon,849.2753832359557,849
+2019,Manitoba Total,Other - Manitoba,1277.508716561072,1278
+2019,Manitoba Total,Portage la Prairie,292.125383231823,292
+2019,Manitoba Total,Steinbach,394.0087165665533,394
+2019,Manitoba Total,Thompson,374.14204989530276,374
+2019,Manitoba Total,Winkler,710.325383231823,710
+2019,Manitoba Total,Winnipeg,12655.803282001623,12656
+2019,New Brunswick Total,Bathurst,291.15872686424035,291
+2019,New Brunswick Total,Campbellton (New Brunswick part),226.142060194154,226
+2019,New Brunswick Total,Edmundston,329.408726860549,329
+2019,New Brunswick Total,Fredericton,1214.5420601861067,1215
+2019,New Brunswick Total,Miramichi,292.39206019570616,292
+2019,New Brunswick Total,Moncton,1738.0253935207886,1738
+2019,New Brunswick Total,Other - New Brunswick,883.3420601927521,883
+2019,New Brunswick Total,Saint John,942.4920601909234,942
+2019,Newfoundland and Labrador Total,Corner Brook,263.7086269124704,264
+2019,Newfoundland and Labrador Total,Gander,247.40862690923984,247
+2019,Newfoundland and Labrador Total,Grand Falls-Windsor,221.87529357889935,222
+2019,Newfoundland and Labrador Total,Other - Newfoundland and Labrador,525.8252935796124,526
+2019,Newfoundland and Labrador Total,St. John's,1214.5252935741698,1215
+2019,Northwest Territories Total,Other - Northwest Territories,213.35843047131604,213
+2019,Northwest Territories Total,"Territories (outside Census agglomeration, Northwest Territories)",224.67509714141212,225
+2019,Northwest Territories Total,Yellowknife,341.10843046838625,341
+2019,Nova Scotia Total,Cape Breton,434.6420725137957,435
+2019,Nova Scotia Total,Halifax,4881.094707665562,4881
+2019,Nova Scotia Total,Kentville,291.2920725168419,291
+2019,Nova Scotia Total,New Glasgow,266.05873918246084,266
+2019,Nova Scotia Total,Other - Nova Scotia,718.8420725162065,719
+2019,Nova Scotia Total,Truro,318.275405847066,318
+2019,Nunavut Total,Other - Nunavut,213.3589320667099,213
+2019,Nunavut Total,"Territories (outside Census agglomeration, Nunavut)",226.90893206768976,227
+2019,Ontario Total,Barrie,681.2377609951976,681
+2019,Ontario Total,Belleville - Quinte West,343.02109433308567,343
+2019,Ontario Total,Brantford,453.9377610020855,454
+2019,Ontario Total,Brockville,228.92109433140737,229
+2019,Ontario Total,Centre Wellington,220.62109432907423,221
+2019,Ontario Total,Chatham-Kent,336.65442766638023,337
+2019,Ontario Total,Cobourg,225.8877609956099,226
+2019,Ontario Total,Collingwood,238.98776100224072,239
+2019,Ontario Total,Cornwall,319.9710943344487,320
+2019,Ontario Total,Elliot Lake,213.5377609963375,214
+2019,Ontario Total,Essa,244.4877609981856,244
+2019,Ontario Total,Greater Sudbury,506.0710943302529,506
+2019,Ontario Total,Guelph,973.5210943255332,974
+2019,Ontario Total,Hamilton,3308.143449736881,3308
+2019,Ontario Total,Hawkesbury (Ontario part),230.83776099906842,231
+2019,Ontario Total,Ingersoll,215.87109433331852,216
+2019,Ontario Total,Kawartha Lakes,237.1877609950133,237
+2019,Ontario Total,Kenora,217.7710943351472,218
+2019,Ontario Total,Kingston,650.9710943307283,651
+2019,Ontario Total,Kitchener - Cambridge - Waterloo,4023.3471064194823,4023
+2019,Ontario Total,London,2738.254427661258,2738
+2019,Ontario Total,Midland,224.187760996711,224
+2019,Ontario Total,Norfolk,273.6044276631982,274
+2019,Ontario Total,North Bay,277.4377610019691,277
+2019,Ontario Total,Orillia,249.98776100102322,250
+2019,Ontario Total,Oshawa,1052.57109432986,1053
+2019,Ontario Total,Other - Ontario,1176.0044276627666,1176
+2019,Ontario Total,Ottawa - Gatineau (Ontario part),10202.2790082471,10202
+2019,Ontario Total,Owen Sound,235.32109433409948,235
+2019,Ontario Total,Pembroke,218.43776100023257,218
+2019,Ontario Total,Petawawa,217.22109433161108,217
+2019,Ontario Total,Peterborough,460.22109433280434,460
+2019,Ontario Total,Port Hope,214.80442766678766,215
+2019,Ontario Total,Sarnia,344.9044276616557,345
+2019,Ontario Total,Sault Ste. Marie,370.5377609973949,371
+2019,Ontario Total,St. Catharines - Niagara,1358.2544276626986,1358
+2019,Ontario Total,Stratford,260.73776100229406,261
+2019,Ontario Total,Thunder Bay,521.1710943308883,521
+2019,Ontario Total,Tillsonburg,217.50442766507538,218
+2019,Ontario Total,Timmins,269.6210943319846,270
+2019,Ontario Total,Toronto,108452.31746273814,108452
+2019,Ontario Total,Wasaga Beach,216.9210943310193,217
+2019,Ontario Total,Windsor,2403.021094329336,2403
+2019,Ontario Total,Woodstock,285.37109433346404,285
+2019,Prince Edward Island Total,Charlottetown,1449.70923907465,1450
+2019,Prince Edward Island Total,Other - Prince Edward Island,435.6925724124945,436
+2019,Prince Edward Island Total,Summerside,378.17590573867795,378
+2019,Province/territory not stated,Other ,222.70855043063557,223
+2019,Quebec Total,Alma,218.21055931166256,218
+2019,Quebec Total,Amos,214.47722597711171,214
+2019,Quebec Total,Baie-Comeau,217.77722598408207,218
+2019,Quebec Total,Cowansville,215.3605593143595,215
+2019,Quebec Total,Dolbeau-Mistassini,214.2272259822437,214
+2019,Quebec Total,Drummondville,342.360559316974,342
+2019,Quebec Total,Granby,303.5772259812299,304
+2019,Quebec Total,Hawkesbury (Quebec part),213.36055931725534,213
+2019,Quebec Total,Joliette,278.74389264637347,279
+2019,Quebec Total,Lachute,213.69389264487947,214
+2019,Quebec Total,Matane,215.74389264793538,216
+2019,Quebec Total,Montréal,36017.41477994414,36017
+2019,Quebec Total,Other - Quebec,733.0438926438658,733
+2019,Quebec Total,Ottawa - Gatineau (Quebec part),1047.6772259767624,1048
+2019,Quebec Total,Québec,2412.0438926409697,2412
+2019,Quebec Total,Rimouski,281.84389264880366,282
+2019,Quebec Total,Rivière-du-Loup,226.7772259816713,227
+2019,Quebec Total,Rouyn-Noranda,276.6438926476104,277
+2019,Quebec Total,Saguenay,316.3438926493712,316
+2019,Quebec Total,Saint-Georges,237.5105593131905,238
+2019,Quebec Total,Saint-Hyacinthe,320.1772259829228,320
+2019,Quebec Total,Sainte-Agathe-des-Monts,218.7772259810262,219
+2019,Quebec Total,Sainte-Marie,220.47722598042955,220
+2019,Quebec Total,Salaberry-de-Valleyfield,224.4105593119342,224
+2019,Quebec Total,Sept-Îles,230.07722598190415,230
+2019,Quebec Total,Shawinigan,229.67722597922173,230
+2019,Quebec Total,Sherbrooke,834.6438926416392,835
+2019,Quebec Total,Sorel-Tracy,221.99389264915288,222
+2019,Quebec Total,Thetford Mines,226.04389265199052,226
+2019,Quebec Total,Trois-Rivières,454.96055931132304,455
+2019,Quebec Total,Val-d'Or,226.8105593184098,227
+2019,Quebec Total,Victoriaville,272.57722598261716,273
+2019,Saskatchewan Total,Estevan,312.7254651444034,313
+2019,Saskatchewan Total,Lloydminster (Saskatchewan part),332.25879848070053,332
+2019,Saskatchewan Total,Moose Jaw,444.30879847878447,444
+2019,Saskatchewan Total,North Battleford,353.4421318157995,353
+2019,Saskatchewan Total,Other - Saskatchewan,1460.0087984732886,1460
+2019,Saskatchewan Total,Prince Albert,594.8587984828154,595
+2019,Saskatchewan Total,Regina,4695.856987956643,4696
+2019,Saskatchewan Total,Saskatoon,4759.944084521185,4760
+2019,Saskatchewan Total,Swift Current,353.64213181638155,354
+2019,Saskatchewan Total,Weyburn,307.3754651463776,307
+2019,Saskatchewan Total,Yorkton,362.22546514839553,362
+2019,Yukon Total,Other - Yukon,213.69183531252312,214
+2019,Yukon Total,"Territories (outside Census agglomeration, Yukon)",231.3085019814308,231
+2019,Yukon Total,Whitehorse,456.7585019794129,457
+2020,Alberta Total,Brooks,548.996872656357,549
+2020,Alberta Total,Calgary,15733.399574190831,15733
+2020,Alberta Total,Camrose,296.346872658986,296
+2020,Alberta Total,Canmore,355.73020599497266,356
+2020,Alberta Total,Edmonton,12352.477852210715,12352
+2020,Alberta Total,Grande Prairie,574.6968726537376,575
+2020,Alberta Total,High River,304.68020599404133,305
+2020,Alberta Total,Lacombe,291.43020599213503,291
+2020,Alberta Total,Lethbridge,639.5802059896612,640
+2020,Alberta Total,Lloydminster (Alberta part),318.6635393246001,319
+2020,Alberta Total,Medicine Hat,447.5635393244691,448
+2020,Alberta Total,Okotoks,304.8135393284612,305
+2020,Alberta Total,Other - Alberta,1692.0802059889966,1692
+2020,Alberta Total,Red Deer,680.313539321258,680
+2020,Alberta Total,Strathmore,280.2135393294701,280
+2020,Alberta Total,Sylvan Lake,275.4468726598785,275
+2020,Alberta Total,Wetaskiwin,288.2635393278306,288
+2020,Alberta Total,Wood Buffalo,808.8635393215442,809
+2020,British Columbia Total,Abbotsford - Mission,1067.5977400060929,1068
+2020,British Columbia Total,Campbell River,303.0144066733416,303
+2020,British Columbia Total,Chilliwack,426.3310733382281,426
+2020,British Columbia Total,Courtenay,345.5810733380147,346
+2020,British Columbia Total,Cranbrook,298.0144066717409,298
+2020,British Columbia Total,Dawson Creek,317.09774000744136,317
+2020,British Columbia Total,Duncan,309.3477400051228,309
+2020,British Columbia Total,Fort St. John,391.0644066708581,391
+2020,British Columbia Total,Kamloops,499.26440667340955,499
+2020,British Columbia Total,Kelowna,807.0644066737588,807
+2020,British Columbia Total,Ladysmith,264.33107333845606,264
+2020,British Columbia Total,Nanaimo,514.0310733357106,514
+2020,British Columbia Total,Nelson,318.96440667397707,319
+2020,British Columbia Total,Other - British Columbia,1273.3644066720562,1273
+2020,British Columbia Total,Parksville,280.9144066772949,281
+2020,British Columbia Total,Penticton,319.41440667229875,319
+2020,British Columbia Total,Port Alberni,277.33107334030905,277
+2020,British Columbia Total,Powell River,269.34774000684473,269
+2020,British Columbia Total,Prince George,457.9477400044922,458
+2020,British Columbia Total,Prince Rupert,275.147740010148,275
+2020,British Columbia Total,Quesnel,272.181073340309,272
+2020,British Columbia Total,Salmon Arm,290.21440667112006,290
+2020,British Columbia Total,Squamish,391.28107334126946,391
+2020,British Columbia Total,Terrace,300.8810733396639,301
+2020,British Columbia Total,Trail,278.31440667267225,278
+2020,British Columbia Total,Vancouver,30051.636020443362,30052
+2020,British Columbia Total,Vernon,370.94774000408955,371
+2020,British Columbia Total,Victoria,1530.8810733318203,1531
+2020,British Columbia Total,Williams Lake,288.84774000861034,289
+2020,Manitoba Total,Brandon,790.0465843874565,790
+2020,Manitoba Total,Other - Manitoba,1050.9799177125728,1051
+2020,Manitoba Total,Portage la Prairie,328.9632510499904,329
+2020,Manitoba Total,Steinbach,392.12991771805406,392
+2020,Manitoba Total,Thompson,385.06325104680354,385
+2020,Manitoba Total,Winkler,629.4632510499904,629
+2020,Manitoba Total,Winnipeg,9898.135858153124,9898
+2020,New Brunswick Total,Bathurst,315.11326134907443,315
+2020,New Brunswick Total,Campbellton (New Brunswick part),271.9465946789881,272
+2020,New Brunswick Total,Edmundston,366.6799280120498,367
+2020,New Brunswick Total,Fredericton,919.8632613376076,920
+2020,New Brunswick Total,Miramichi,314.7465946805403,315
+2020,New Brunswick Total,Moncton,1543.6965946722894,1544
+2020,New Brunswick Total,Other - New Brunswick,724.4632613442529,724
+2020,New Brunswick Total,Saint John,827.5965946757576,828
+2020,Newfoundland and Labrador Total,Corner Brook,308.82982806397115,309
+2020,Newfoundland and Labrador Total,Gander,290.46316139407395,290
+2020,Newfoundland and Labrador Total,Grand Falls-Windsor,267.17982806373345,267
+2020,Newfoundland and Labrador Total,Other - Newfoundland and Labrador,502.21316139777986,502
+2020,Newfoundland and Labrador Total,St. John's,1049.7131613923373,1050
+2020,Northwest Territories Total,Other - Northwest Territories,260.2962982894835,260
+2020,Northwest Territories Total,"Territories (outside Census agglomeration, Northwest Territories)",269.1962982929129,269
+2020,Northwest Territories Total,Yellowknife,363.12963161988705,363
+2020,Nova Scotia Total,Cape Breton,424.5299403319632,425
+2020,Nova Scotia Total,Halifax,3803.1325754837294,3803
+2020,Nova Scotia Total,Kentville,328.6632736683427,329
+2020,Nova Scotia Total,New Glasgow,293.02994033396163,293
+2020,Nova Scotia Total,Other - Nova Scotia,657.0299403343739,657
+2020,Nova Scotia Total,Truro,353.5299403319001,354
+2020,Nunavut Total,Other - Nunavut,260.2967998848774,260
+2020,Nunavut Total,"Territories (outside Census agglomeration, Nunavut)",274.0967998858572,274
+2020,Ontario Total,Barrie,630.2422954800318,630
+2020,Ontario Total,Belleville - Quinte West,364.8089621512531,365
+2020,Ontario Total,Brantford,479.64229548691964,480
+2020,Ontario Total,Brockville,273.1256288162415,273
+2020,Ontario Total,Centre Wellington,267.45896214724166,267
+2020,Ontario Total,Chatham-Kent,351.6422954845477,352
+2020,Ontario Total,Cobourg,271.27562881377736,271
+2020,Ontario Total,Collingwood,289.8589621537415,290
+2020,Ontario Total,Cornwall,362.90896215261614,363
+2020,Ontario Total,Elliot Lake,260.4589621478383,260
+2020,Ontario Total,Essa,279.97562881635304,280
+2020,Ontario Total,Greater Sudbury,522.8089621484204,523
+2020,Ontario Total,Guelph,889.342295477034,889
+2020,Ontario Total,Hamilton,2889.147984221715,2889
+2020,Ontario Total,Hawkesbury (Ontario part),276.6422954839025,277
+2020,Ontario Total,Ingersoll,262.7922954848193,263
+2020,Ontario Total,Kawartha Lakes,273.44229547984736,273
+2020,Ontario Total,Kenora,266.20896215331464,266
+2020,Ontario Total,Kingston,627.0756288155624,627
+2020,Ontario Total,Kitchener - Cambridge - Waterloo,3521.5349742376497,3522
+2020,Ontario Total,London,2354.9756288127587,2355
+2020,Ontario Total,Midland,269.5756288148784,270
+2020,Ontario Total,Norfolk,303.4589621480323,303
+2020,Ontario Total,North Bay,310.25896215346984,310
+2020,Ontario Total,Orillia,287.12562881919064,287
+2020,Ontario Total,Oshawa,948.3922954813607,948
+2020,Ontario Total,Other - Ontario,1026.8589621476006,1027
+2020,Ontario Total,Ottawa - Gatineau (Ontario part),8908.616876065267,8909
+2020,Ontario Total,Owen Sound,281.72562881893356,282
+2020,Ontario Total,Pembroke,262.7089621517333,263
+2020,Ontario Total,Petawawa,263.7256288164452,264
+2020,Ontario Total,Peterborough,440.12562881763847,440
+2020,Ontario Total,Port Hope,261.4922954849551,261
+2020,Ontario Total,Sarnia,364.3756288131565,364
+2020,Ontario Total,Sault Ste. Marie,386.79229548222906,387
+2020,Ontario Total,St. Catharines - Niagara,1191.7256288141994,1192
+2020,Ontario Total,Stratford,299.70896215379486,300
+2020,Ontario Total,Thunder Bay,494.20896214905576,494
+2020,Ontario Total,Tillsonburg,263.4589621499095,263
+2020,Ontario Total,Timmins,302.5756288168187,303
+2020,Ontario Total,Toronto,80699.89270640074,80700
+2020,Ontario Total,Wasaga Beach,263.39229548252007,263
+2020,Ontario Total,Windsor,1945.7089621475036,1946
+2020,Ontario Total,Woodstock,333.3589621516315,333
+2020,Prince Edward Island Total,Charlottetown,1194.5971068928175,1195
+2020,Prince Edward Island Total,Other - Prince Edward Island,435.73044023066194,436
+2020,Prince Edward Island Total,Summerside,428.06377355684543,428
+2020,Province/territory not stated,Other ,267.046418248803,267
+2020,Quebec Total,Alma,264.89842712983,265
+2020,Quebec Total,Amos,261.31509379527915,261
+2020,Quebec Total,Baie-Comeau,264.44842713558285,264
+2020,Quebec Total,Cowansville,262.29842713252697,262
+2020,Quebec Total,Dolbeau-Mistassini,261.14842713374446,261
+2020,Quebec Total,Drummondville,368.73176046847476,369
+2020,Quebec Total,Granby,346.7984271327307,347
+2020,Quebec Total,Hawkesbury (Quebec part),260.2984271354228,260
+2020,Quebec Total,Joliette,309.89842713120754,310
+2020,Quebec Total,Lachute,260.63176046304693,261
+2020,Quebec Total,Matane,262.66509379943614,263
+2020,Quebec Total,Montréal,31562.421818192495,31562
+2020,Quebec Total,Other - Quebec,763.2317604620331,763
+2020,Quebec Total,Ottawa - Gatineau (Quebec part),955.7484271282633,956
+2020,Quebec Total,Québec,2321.1817604591374,2321
+2020,Quebec Total,Rimouski,317.7317604669711,318
+2020,Quebec Total,Rivière-du-Loup,273.53176046650543,274
+2020,Quebec Total,Rouyn-Noranda,323.4317604657778,323
+2020,Quebec Total,Saguenay,350.5984271342053,351
+2020,Quebec Total,Saint-Georges,287.7984271313579,288
+2020,Quebec Total,Saint-Hyacinthe,350.63176046775686,351
+2020,Quebec Total,Sainte-Agathe-des-Monts,262.9650937991936,263
+2020,Quebec Total,Sainte-Marie,268.71509379859697,269
+2020,Quebec Total,Salaberry-de-Valleyfield,270.13176046343494,270
+2020,Quebec Total,Sept-Îles,275.93176046673824,276
+2020,Quebec Total,Shawinigan,278.2484271307225,278
+2020,Quebec Total,Sherbrooke,766.46509379314,766
+2020,Quebec Total,Sorel-Tracy,266.6817604673203,267
+2020,Quebec Total,Thetford Mines,273.9150938034913,274
+2020,Quebec Total,Trois-Rivières,460.71509379615713,461
+2020,Quebec Total,Val-d'Or,277.6150938032439,278
+2020,Quebec Total,Victoriaville,311.44842713411794,311
+2020,Saskatchewan Total,Estevan,322.3966662959042,322
+2020,Saskatchewan Total,Lloydminster (Saskatchewan part),338.51333296553463,339
+2020,Saskatchewan Total,Moose Jaw,428.02999963028526,428
+2020,Saskatchewan Total,North Battleford,357.2799996339669,357
+2020,Saskatchewan Total,Other - Saskatchewan,1185.5466662914562,1186
+2020,Saskatchewan Total,Prince Albert,514.6633329676495,515
+2020,Saskatchewan Total,Regina,3607.4021057748105,3607
+2020,Saskatchewan Total,Saskatoon,3753.401077339352,3753
+2020,Saskatchewan Total,Swift Current,358.2133329678823,358
+2020,Saskatchewan Total,Weyburn,320.42999963121173,320
+2020,Saskatchewan Total,Yorkton,365.94666629989626,366
+2020,Yukon Total,Other - Yukon,260.6297031306906,261
+2020,Yukon Total,"Territories (outside Census agglomeration, Yukon)",274.57970313293157,275
+2020,Yukon Total,Whitehorse,444.49636979758037,444
+2021,Alberta Total,Brooks,646.4847404745099,646
+2021,Alberta Total,Calgary,18022.787442008987,18023
+2021,Alberta Total,Camrose,354.9180738104722,355
+2021,Alberta Total,Canmore,461.3014071464588,461
+2021,Alberta Total,Edmonton,14394.232386695534,14394
+2021,Alberta Total,Grande Prairie,711.6347404718905,712
+2021,Alberta Total,High River,352.75140714552754,353
+2021,Alberta Total,Lacombe,344.2680738102879,344
+2021,Alberta Total,Lethbridge,813.3514071411474,813
+2021,Alberta Total,Lloydminster (Alberta part),396.53474047608626,397
+2021,Alberta Total,Medicine Hat,527.9847404759554,528
+2021,Alberta Total,Okotoks,370.76807381328075,371
+2021,Alberta Total,Other - Alberta,2068.1180738071494,2068
+2021,Alberta Total,Red Deer,803.5014071394108,804
+2021,Alberta Total,Strathmore,333.501407147623,334
+2021,Alberta Total,Sylvan Lake,325.3514071446981,325
+2021,Alberta Total,Wetaskiwin,347.56807381265014,348
+2021,Alberta Total,Wood Buffalo,917.3847404730303,917
+2021,British Columbia Total,Abbotsford - Mission,1605.9189411575792,1606
+2021,British Columbia Total,Campbell River,384.38560782482784,384
+2021,British Columbia Total,Chilliwack,540.1522744897144,540
+2021,British Columbia Total,Courtenay,450.93560782283424,451
+2021,British Columbia Total,Cranbrook,381.4522744898938,381
+2021,British Columbia Total,Dawson Creek,407.60227449227546,408
+2021,British Columbia Total,Duncan,386.73560782327564,387
+2021,British Columbia Total,Fort St. John,486.46894115567767,486
+2021,British Columbia Total,Kamloops,681.5689411582291,682
+2021,British Columbia Total,Kelowna,1204.2689411585782,1204
+2021,British Columbia Total,Ladysmith,316.11894115660897,316
+2021,British Columbia Total,Nanaimo,713.418941153849,713
+2021,British Columbia Total,Nelson,413.8856078254633,414
+2021,British Columbia Total,Other - British Columbia,1862.9689411568759,1863
+2021,British Columbia Total,Parksville,342.5356078287811,343
+2021,British Columbia Total,Penticton,412.635607823785,413
+2021,British Columbia Total,Port Alberni,345.31894115846194,345
+2021,British Columbia Total,Powell River,332.68560782499765,333
+2021,British Columbia Total,Prince George,632.9856078226451,633
+2021,British Columbia Total,Prince Rupert,349.3022744949676,349
+2021,British Columbia Total,Quesnel,343.2189411584619,343
+2021,British Columbia Total,Salmon Arm,361.1689411559396,361
+2021,British Columbia Total,Squamish,506.06894115942237,506
+2021,British Columbia Total,Terrace,407.01894115781676,407
+2021,British Columbia Total,Trail,331.9189411574918,332
+2021,British Columbia Total,Vancouver,45249.52330384563,45250
+2021,British Columbia Total,Vernon,529.4022744889091,529
+2021,British Columbia Total,Victoria,2204.1189411499736,2204
+2021,British Columbia Total,Williams Lake,370.3689411600966,370
+2021,Manitoba Total,Brandon,958.9844522056094,959
+2021,Manitoba Total,Other - Manitoba,1303.2844521973923,1303
+2021,Manitoba Total,Portage la Prairie,401.7511188681433,402
+2021,Manitoba Total,Steinbach,486.4511188695403,486
+2021,Manitoba Total,Thompson,441.2344521982898,441
+2021,Manitoba Total,Winkler,694.8344522014767,695
+2021,Manitoba Total,Winnipeg,11933.073725971277,11933
+2021,New Brunswick Total,Bathurst,374.50112916722736,375
+2021,New Brunswick Total,Campbellton (New Brunswick part),332.134462497141,332
+2021,New Brunswick Total,Edmundston,417.401129163536,417
+2021,New Brunswick Total,Fredericton,1102.1011291557604,1102
+2021,New Brunswick Total,Miramichi,381.38446249869315,381
+2021,New Brunswick Total,Moncton,1941.2011291571089,1941
+2021,New Brunswick Total,Other - New Brunswick,935.2011291624058,935
+2021,New Brunswick Total,Saint John,927.9344624939105,928
+2021,Newfoundland and Labrador Total,Corner Brook,360.3343625487907,360
+2021,Newfoundland and Labrador Total,Gander,347.0843625455601,347
+2021,Newfoundland and Labrador Total,Grand Falls-Windsor,321.434362548553,321
+2021,Newfoundland and Labrador Total,Other - Newfoundland and Labrador,602.4510292159327,602
+2021,Newfoundland and Labrador Total,St. John's,1375.6343625438235,1376
+2021,Northwest Territories Total,Other - Northwest Territories,307.4674994409697,307
+2021,Northwest Territories Total,"Territories (outside Census agglomeration, Northwest Territories)",324.23416611106575,324
+2021,Northwest Territories Total,Yellowknife,462.25083277137327,462
+2021,Nova Scotia Total,Cape Breton,594.267808150116,594
+2021,Nova Scotia Total,Halifax,5440.792648162994,5441
+2021,Nova Scotia Total,Kentville,414.7844748198289,415
+2021,Nova Scotia Total,New Glasgow,365.1178081521145,365
+2021,Nova Scotia Total,Other - Nova Scotia,921.9178081525267,922
+2021,Nova Scotia Total,Truro,464.2344748167196,464
+2021,Nunavut Total,Other - Nunavut,307.4180010363636,307
+2021,Nunavut Total,"Territories (outside Census agglomeration, Nunavut)",324.5680010373434,325
+2021,Ontario Total,Barrie,1049.2801632981846,1049
+2021,Ontario Total,Belleville - Quinte West,477.34682996940603,477
+2021,Ontario Total,Brantford,683.2634966384059,683
+2021,Ontario Total,Brockville,334.56349663439437,335
+2021,Ontario Total,Centre Wellington,318.68016329872785,319
+2021,Ontario Total,Chatham-Kent,450.01349663603384,450
+2021,Ontario Total,Cobourg,318.21349663193024,318
+2021,Ontario Total,Collingwood,361.913496638561,362
+2021,Ontario Total,Cornwall,486.046829970769,486
+2021,Ontario Total,Elliot Lake,307.5634966326578,308
+2021,Ontario Total,Essa,324.63016330117256,325
+2021,Ontario Total,Greater Sudbury,884.8801632999066,885
+2021,Ontario Total,Guelph,1189.9468299618536,1190
+2021,Ontario Total,Hamilton,4128.835852039868,4129
+2021,Ontario Total,Hawkesbury (Ontario part),344.2968299687221,344
+2021,Ontario Total,Ingersoll,310.13016330297216,310
+2021,Ontario Total,Kawartha Lakes,341.2801632980003,341
+2021,Ontario Total,Kenora,330.04682997146756,330
+2021,Ontario Total,Kingston,868.7468299670486,869
+2021,Ontario Total,Kitchener - Cambridge - Waterloo,5669.027703166914,5669
+2021,Ontario Total,London,3776.230163297578,3776
+2021,Ontario Total,Midland,337.69682996636465,338
+2021,Ontario Total,Norfolk,367.7801632995185,368
+2021,Ontario Total,North Bay,401.9134966382894,402
+2021,Ontario Total,Orillia,359.9968299706769,360
+2021,Ontario Total,Oshawa,1391.9301632995137,1392
+2021,Ontario Total,Other - Ontario,1467.7801632990868,1468
+2021,Ontario Total,Ottawa - Gatineau (Ontario part),12048.083243377307,12048
+2021,Ontario Total,Owen Sound,343.4468299704198,343
+2021,Ontario Total,Pembroke,316.4134966365529,316
+2021,Ontario Total,Petawawa,321.5634966345981,322
+2021,Ontario Total,Peterborough,663.480163302458,663
+2021,Ontario Total,Port Hope,308.54682996977465,309
+2021,Ontario Total,Sarnia,520.3634966313093,520
+2021,Ontario Total,Sault Ste. Marie,489.2968299670486,489
+2021,Ontario Total,St. Catharines - Niagara,1900.5801632990187,1901
+2021,Ontario Total,Stratford,398.2968299719478,398
+2021,Ontario Total,Thunder Bay,724.6134966338753,725
+2021,Ontario Total,Tillsonburg,314.8968299680624,315
+2021,Ontario Total,Timmins,397.53016330163825,398
+2021,Ontario Total,Toronto,125823.4156074016,125823
+2021,Ontario Total,Wasaga Beach,312.530163300673,313
+2021,Ontario Total,Windsor,2604.4468299656564,2604
+2021,Ontario Total,Woodstock,410.86349663645103,411
+2021,Prince Edward Island Total,Charlottetown,1497.351641377637,1497
+2021,Prince Edward Island Total,Other - Prince Edward Island,546.0183080488148,546
+2021,Prince Edward Island Total,Summerside,551.318308041665,551
+2021,Province/territory not stated,Other ,317.9342860669559,318
+2021,Quebec Total,Alma,315.0696282813162,315
+2021,Quebec Total,Amos,308.2362949467654,308
+2021,Quebec Total,Baie-Comeau,311.2862949537357,311
+2021,Quebec Total,Cowansville,311.2862949506798,311
+2021,Quebec Total,Dolbeau-Mistassini,308.0696282852307,308
+2021,Quebec Total,Drummondville,461.96962828662765,462
+2021,Quebec Total,Granby,436.8529616175502,437
+2021,Quebec Total,Hawkesbury (Quebec part),307.2362949535757,307
+2021,Quebec Total,Joliette,374.68629494936044,375
+2021,Quebec Total,Lachute,307.5696282811998,308
+2021,Quebec Total,Matane,313.03629495092235,313
+2021,Quebec Total,Montréal,38883.547405789664,38884
+2021,Quebec Total,Other - Quebec,1056.5362949468526,1057
+2021,Quebec Total,Ottawa - Gatineau (Quebec part),1173.4362949464162,1173
+2021,Quebec Total,Québec,3128.81962827729,3129
+2021,Quebec Total,Rimouski,389.4862949517906,389
+2021,Quebec Total,Rivière-du-Loup,337.23629495132496,337
+2021,Quebec Total,Rouyn-Noranda,399.3862949505974,399
+2021,Quebec Total,Saguenay,452.68629495235814,453
+2021,Quebec Total,Saint-Georges,353.88629494951084,354
+2021,Quebec Total,Saint-Hyacinthe,436.2529616192431,436
+2021,Quebec Total,Sainte-Agathe-des-Monts,316.23629495067985,316
+2021,Quebec Total,Sainte-Marie,332.78629495008323,333
+2021,Quebec Total,Salaberry-de-Valleyfield,321.08629494825453,321
+2021,Quebec Total,Sept-Îles,319.55296161822446,320
+2021,Quebec Total,Shawinigan,342.9362949488754,343
+2021,Quebec Total,Sherbrooke,1001.3529616112929,1001
+2021,Quebec Total,Sorel-Tracy,314.68629495213986,315
+2021,Quebec Total,Thetford Mines,339.35296162164417,339
+2021,Quebec Total,Trois-Rivières,585.0362949476433,585
+2021,Quebec Total,Val-d'Or,339.2362949547301,339
+2021,Quebec Total,Victoriaville,378.0029616189375,378
+2021,Saskatchewan Total,Estevan,381.7012007807237,382
+2021,Saskatchewan Total,Lloydminster (Saskatchewan part),399.16786745035415,399
+2021,Saskatchewan Total,Moose Jaw,536.1345341151048,536
+2021,Saskatchewan Total,North Battleford,433.3512007854531,433
+2021,Saskatchewan Total,Other - Saskatchewan,1405.2512007762757,1405
+2021,Saskatchewan Total,Prince Albert,617.317867452469,617
+2021,Saskatchewan Total,Regina,3873.623306926296,3874
+2021,Saskatchewan Total,Saskatoon,4233.455611824172,4233
+2021,Saskatchewan Total,Swift Current,420.3345341193685,420
+2021,Saskatchewan Total,Weyburn,382.1845341160313,382
+2021,Saskatchewan Total,Yorkton,436.90120078471585,437
+2021,Yukon Total,Other - Yukon,307.91757094884343,308
+2021,Yukon Total,"Territories (outside Census agglomeration, Yukon)",330.8675709510844,331
+2021,Yukon Total,Whitehorse,620.4342376157332,620
+2022,Alberta Total,Brooks,799.1559416259961,799
+2022,Alberta Total,Calgary,22285.136529050586,22285
+2022,Alberta Total,Camrose,408.1559416286251,408
+2022,Alberta Total,Canmore,482.3726082979451,482
+2022,Alberta Total,Edmonton,15874.760483221937,15875
+2022,Alberta Total,Grande Prairie,753.6059416233767,754
+2022,Alberta Total,High River,420.9726082970137,421
+2022,Alberta Total,Lacombe,385.12260829510745,385
+2022,Alberta Total,Lethbridge,910.6226082926336,911
+2022,Alberta Total,Lloydminster (Alberta part),449.5226082942392,450
+2022,Alberta Total,Medicine Hat,594.2726082941082,594
+2022,Alberta Total,Okotoks,416.1892749647669,416
+2022,Alberta Total,Other - Alberta,2092.9392749586355,2093
+2022,Alberta Total,Red Deer,903.7726082908971,904
+2022,Alberta Total,Strathmore,377.03927496577586,377
+2022,Alberta Total,Sylvan Lake,374.5059416295176,375
+2022,Alberta Total,Wetaskiwin,390.9226082974697,391
+2022,Alberta Total,Wood Buffalo,1038.33927495785,1038
+2022,British Columbia Total,Abbotsford - Mission,1773.0901423090652,1773
+2022,British Columbia Total,Campbell River,414.1401423096474,414
+2022,British Columbia Total,Chilliwack,575.1234756412006,575
+2022,British Columbia Total,Courtenay,464.49014230765374,464
+2022,British Columbia Total,Cranbrook,417.3901423080467,417
+2022,British Columbia Total,Dawson Creek,431.7401423104138,432
+2022,British Columbia Total,Duncan,430.4234756414285,430
+2022,British Columbia Total,Fort St. John,513.0901423071639,513
+2022,British Columbia Total,Kamloops,685.606808976382,686
+2022,British Columbia Total,Kelowna,1193.023475643398,1193
+2022,British Columbia Total,Ladysmith,360.0734756414285,360
+2022,British Columbia Total,Nanaimo,711.5568089720164,712
+2022,British Columbia Total,Nelson,455.42347564361614,455
+2022,British Columbia Total,Other - British Columbia,1713.7734756416953,1714
+2022,British Columbia Total,Parksville,380.4401423136007,380
+2022,British Columbia Total,Penticton,460.00680897527116,460
+2022,British Columbia Total,Port Alberni,376.14014230994815,376
+2022,British Columbia Total,Powell River,370.45680897648384,370
+2022,British Columbia Total,Prince George,653.3234756407979,653
+2022,British Columbia Total,Prince Rupert,385.5568089797871,386
+2022,British Columbia Total,Quesnel,375.3234756432815,375
+2022,British Columbia Total,Salmon Arm,401.9901423074258,402
+2022,British Columbia Total,Squamish,504.54014231090855,505
+2022,British Columbia Total,Terrace,416.8234756426363,417
+2022,British Columbia Total,Trail,381.3568089756447,381
+2022,British Columbia Total,Vancouver,43820.127838330445,43820
+2022,British Columbia Total,Vernon,570.6068089737287,571
+2022,British Columbia Total,Victoria,2018.3234756347929,2018
+2022,British Columbia Total,Williams Lake,405.75680897824947,406
+2022,Manitoba Total,Brandon,1327.3723200237623,1327
+2022,Manitoba Total,Other - Manitoba,1510.5556533488786,1511
+2022,Manitoba Total,Portage la Prairie,490.6056533529628,491
+2022,Manitoba Total,Steinbach,600.0723200210265,600
+2022,Manitoba Total,Thompson,569.405653349776,569
+2022,Manitoba Total,Winkler,864.9889866862961,865
+2022,Manitoba Total,Winnipeg,13900.513289190443,13901
+2022,New Brunswick Total,Bathurst,464.6223303187136,465
+2022,New Brunswick Total,Campbellton (New Brunswick part),387.97233031529385,388
+2022,New Brunswick Total,Edmundston,527.6389969816889,528
+2022,New Brunswick Total,Fredericton,1492.2723303072466,1492
+2022,New Brunswick Total,Miramichi,470.6889969835127,471
+2022,New Brunswick Total,Moncton,2779.6556636419286,2780
+2022,New Brunswick Total,Other - New Brunswick,1124.2556636472254,1124
+2022,New Brunswick Total,Saint John,1258.6056636453966,1259
+2022,Newfoundland and Labrador Total,Corner Brook,435.5388970336102,436
+2022,Newfoundland and Labrador Total,Gander,405.07223036371306,405
+2022,Newfoundland and Labrador Total,Grand Falls-Windsor,370.4555637000392,370
+2022,Newfoundland and Labrador Total,Other - Newfoundland and Labrador,759.6222303674189,760
+2022,Newfoundland and Labrador Total,St. John's,1827.3555636953097,1827
+2022,Northwest Territories Total,Other - Northwest Territories,354.17203392578926,354
+2022,Northwest Territories Total,"Territories (outside Census agglomeration, Northwest Territories)",367.68870059588534,368
+2022,Northwest Territories Total,Yellowknife,496.18870058952615,496
+2022,Nova Scotia Total,Cape Breton,709.8390093016022,710
+2022,Nova Scotia Total,Halifax,6492.6180159811465,6493
+2022,Nova Scotia Total,Kentville,479.73900930464845,480
+2022,Nova Scotia Total,New Glasgow,410.72234263693406,411
+2022,Nova Scotia Total,Other - Nova Scotia,1116.6223426373463,1117
+2022,Nova Scotia Total,Truro,559.4056759682059,559
+2022,Nunavut Total,Other - Nunavut,354.20586885451644,354
+2022,Nunavut Total,"Territories (outside Census agglomeration, Nunavut)",372.3892021888296,372
+2022,Ontario Total,Barrie,978.4013644496708,978
+2022,Ontario Total,Belleville - Quinte West,551.6180311208923,552
+2022,Ontario Total,Brantford,702.234697789892,702
+2022,Ontario Total,Brockville,380.73469778588054,381
+2022,Ontario Total,Centre Wellington,366.6513644502141,367
+2022,Ontario Total,Chatham-Kent,511.80136445418674,512
+2022,Ontario Total,Cobourg,363.51803111674974,364
+2022,Ontario Total,Collingwood,398.8680311233806,399
+2022,Ontario Total,Cornwall,576.0680311222552,576
+2022,Ontario Total,Elliot Lake,354.434697784144,354
+2022,Ontario Total,Essa,375.45136445265877,375
+2022,Ontario Total,Greater Sudbury,905.2346977847261,905
+2022,Ontario Total,Guelph,1253.2680311133397,1253
+2022,Ontario Total,Hamilton,4064.2737198580207,4064
+2022,Ontario Total,Hawkesbury (Ontario part),387.4013644535416,387
+2022,Ontario Total,Ingersoll,360.0846977877917,360
+2022,Ontario Total,Kawartha Lakes,381.2680311161531,381
+2022,Ontario Total,Kenora,365.1680311229537,365
+2022,Ontario Total,Kingston,930.9513644518681,931
+2022,Ontario Total,Kitchener - Cambridge - Waterloo,5515.882237651734,5516
+2022,Ontario Total,London,3626.884697782398,3627
+2022,Ontario Total,Midland,379.8013644511842,380
+2022,Ontario Total,Norfolk,412.33469778433806,412
+2022,Ontario Total,North Bay,461.268031123109,461
+2022,Ontario Total,Orillia,399.95136445549645,400
+2022,Ontario Total,Oshawa,1505.0846977843332,1505
+2022,Ontario Total,Other - Ontario,1444.401364450573,1444
+2022,Ontario Total,Ottawa - Gatineau (Ontario part),14312.17331925151,14312
+2022,Ontario Total,Owen Sound,389.25136445523935,389
+2022,Ontario Total,Pembroke,356.3846977880391,356
+2022,Ontario Total,Petawawa,364.2180311194176,364
+2022,Ontario Total,Peterborough,676.7346977872776,677
+2022,Ontario Total,Port Hope,355.4013644545942,355
+2022,Ontario Total,Sarnia,530.0513644494622,530
+2022,Ontario Total,Sault Ste. Marie,612.0846977852016,612
+2022,Ontario Total,St. Catharines - Niagara,1872.8513644505051,1873
+2022,Ontario Total,Stratford,438.2513644567673,438
+2022,Ontario Total,Thunder Bay,837.4013644520282,837
+2022,Ontario Total,Tillsonburg,359.9846977862153,360
+2022,Ontario Total,Timmins,482.9513644531245,483
+2022,Ontario Total,Toronto,121423.65840160842,121424
+2022,Ontario Total,Wasaga Beach,365.5346977854925,366
+2022,Ontario Total,Windsor,2820.234697783809,2820
+2022,Ontario Total,Woodstock,451.15136445460394,451
+2022,Prince Edward Island Total,Charlottetown,1558.0728425291231,1558
+2022,Prince Edward Island Total,Other - Prince Edward Island,638.4728425336343,638
+2022,Prince Edward Island Total,Summerside,603.3728425264845,603
+2022,Province/territory not stated,Other ,366.02215388510876,366
+2022,Quebec Total,Alma,365.32416276613577,365
+2022,Quebec Total,Amos,355.17416276491826,355
+2022,Quebec Total,Baie-Comeau,360.1908294385553,360
+2022,Quebec Total,Cowansville,356.7241627688327,357
+2022,Quebec Total,Dolbeau-Mistassini,355.3408294367169,355
+2022,Quebec Total,Drummondville,632.0908294381138,632
+2022,Quebec Total,Granby,509.12416276903645,509
+2022,Quebec Total,Hawkesbury (Quebec part),354.17416277172856,354
+2022,Quebec Total,Joliette,452.3574961008467,452
+2022,Quebec Total,Lachute,354.60749609935266,355
+2022,Quebec Total,Matane,360.10749610240856,360
+2022,Quebec Total,Montréal,43295.651660273645,43296
+2022,Quebec Total,Other - Quebec,1303.0408294316721,1303
+2022,Quebec Total,Ottawa - Gatineau (Quebec part),1302.4408294312357,1302
+2022,Quebec Total,Québec,4088.157496095443,4088
+2022,Quebec Total,Rimouski,472.1241627699435,472
+2022,Quebec Total,Rivière-du-Loup,398.9908294361445,399
+2022,Quebec Total,Rouyn-Noranda,472.1908294354169,472
+2022,Quebec Total,Saguenay,560.4908294371777,560
+2022,Quebec Total,Saint-Georges,436.37416276766373,436
+2022,Quebec Total,Saint-Hyacinthe,543.0074961040626,543
+2022,Quebec Total,Sainte-Agathe-des-Monts,358.00749610216604,358
+2022,Quebec Total,Sainte-Marie,382.44082943490275,382
+2022,Quebec Total,Salaberry-de-Valleyfield,381.60749609974073,382
+2022,Quebec Total,Sept-Îles,386.87416276971067,387
+2022,Quebec Total,Shawinigan,392.2074961003616,392
+2022,Quebec Total,Sherbrooke,1178.9074960961125,1179
+2022,Quebec Total,Sorel-Tracy,374.3574961036261,374
+2022,Quebec Total,Thetford Mines,408.190829439797,408
+2022,Quebec Total,Trois-Rivières,746.9241627657963,747
+2022,Quebec Total,Val-d'Or,387.774162772883,388
+2022,Quebec Total,Victoriaville,444.9908294370904,445
+2022,Saskatchewan Total,Estevan,452.0057352655433,452
+2022,Saskatchewan Total,Lloydminster (Saskatchewan part),452.32240193517373,452
+2022,Saskatchewan Total,Moose Jaw,664.255735266591,664
+2022,Saskatchewan Total,North Battleford,493.90573527027266,494
+2022,Saskatchewan Total,Other - Saskatchewan,1643.2557352610952,1643
+2022,Saskatchewan Total,Prince Albert,743.0890686039553,743
+2022,Saskatchewan Total,Regina,5870.321184417068,5870
+2022,Saskatchewan Total,Saskatoon,6364.097341907949,6364
+2022,Saskatchewan Total,Swift Current,488.0724019375214,488
+2022,Saskatchewan Total,Weyburn,468.87240193418415,469
+2022,Saskatchewan Total,Yorkton,508.20573526953535,508
+2022,Yukon Total,Other - Yukon,354.922105433663,355
+2022,Yukon Total,"Territories (outside Census agglomeration, Yukon)",381.3054387692373,381
+2022,Yukon Total,Whitehorse,625.4221054338861,625
+2023,Alberta Total,Brooks,896.1271427774823,896
+2023,Alberta Total,Calgary,23753.315281158888,23753
+2023,Alberta Total,Camrose,451.71047611344466,452
+2023,Alberta Total,Canmore,543.260476116098,543
+2023,Alberta Total,Edmonton,18562.969302908834,18563
+2023,Alberta Total,Grande Prairie,882.7604761081963,883
+2023,Alberta Total,High River,476.1771427818333,476
+2023,Alberta Total,Lacombe,437.4604761132603,437
+2023,Alberta Total,Lethbridge,959.2771427774532,959
+2023,Alberta Total,Lloydminster (Alberta part),494.02714277905875,494
+2023,Alberta Total,Medicine Hat,642.5438094455944,643
+2023,Alberta Total,Okotoks,471.8604761162532,472
+2023,Alberta Total,Other - Alberta,2150.9771427767887,2151
+2023,Alberta Total,Red Deer,987.6438094423833,988
+2023,Alberta Total,Strathmore,419.3438094505954,419
+2023,Alberta Total,Sylvan Lake,422.5271427810038,423
+2023,Alberta Total,Wetaskiwin,442.2771427822893,442
+2023,Alberta Total,Wood Buffalo,1137.8271427760028,1138
+2023,British Columbia Total,Abbotsford - Mission,1907.1613434605515,1907
+2023,British Columbia Total,Campbell River,481.61134346113363,482
+2023,British Columbia Total,Chilliwack,677.8613434593534,678
+2023,British Columbia Total,Courtenay,532.16134345914,532
+2023,British Columbia Total,Cranbrook,454.52801012619955,455
+2023,British Columbia Total,Dawson Creek,494.11134346191454,494
+2023,British Columbia Total,Duncan,484.6446767929147,485
+2023,British Columbia Total,Fort St. John,584.2780101253168,584
+2023,British Columbia Total,Kamloops,805.3780101278682,805
+2023,British Columbia Total,Kelowna,1318.6946767948841,1319
+2023,British Columbia Total,Ladysmith,407.92801012624807,408
+2023,British Columbia Total,Nanaimo,793.2446767901547,793
+2023,British Columbia Total,Nelson,510.311343461769,510
+2023,British Columbia Total,Other - British Columbia,1838.1280101265147,1838
+2023,British Columbia Total,Parksville,426.82801013175356,427
+2023,British Columbia Total,Penticton,502.66134346009073,503
+2023,British Columbia Total,Port Alberni,432.46134346143435,432
+2023,British Columbia Total,Powell River,418.07801012797006,418
+2023,British Columbia Total,Prince George,716.9780101256175,717
+2023,British Columbia Total,Prince Rupert,444.89467679794,445
+2023,British Columbia Total,Quesnel,422.16134346143434,422
+2023,British Columbia Total,Salmon Arm,459.76134345891205,460
+2023,British Columbia Total,Squamish,560.6946767957281,561
+2023,British Columbia Total,Terrace,502.1446767941226,502
+2023,British Columbia Total,Trail,443.31134346046423,443
+2023,British Columbia Total,Vancouver,45383.882372815264,45384
+2023,British Columbia Total,Vernon,660.9446767918815,661
+2023,British Columbia Total,Victoria,2274.544676786279,2275
+2023,British Columbia Total,Williams Lake,445.961343463069,446
+2023,Manitoba Total,Brandon,1256.8601878419151,1257
+2023,Manitoba Total,Other - Manitoba,1493.5101878336982,1494
+2023,Manitoba Total,Portage la Prairie,511.8601878377824,512
+2023,Manitoba Total,Steinbach,631.3601878391794,631
+2023,Manitoba Total,Thompson,561.2101878345956,561
+2023,Manitoba Total,Winkler,904.0935211711158,904
+2023,Manitoba Total,Winnipeg,15518.18201400411,15518
+2023,New Brunswick Total,Bathurst,548.9435314701998,549
+2023,New Brunswick Total,Campbellton (New Brunswick part),445.4435314667801,445
+2023,New Brunswick Total,Edmundston,612.4601981331751,612
+2023,New Brunswick Total,Fredericton,1464.5601981253994,1465
+2023,New Brunswick Total,Miramichi,505.4268648016656,505
+2023,New Brunswick Total,Moncton,2941.0768647934146,2941
+2023,New Brunswick Total,Other - New Brunswick,1301.2768647987116,1301
+2023,New Brunswick Total,Saint John,1362.0435314635495,1362
+2023,Newfoundland and Labrador Total,Corner Brook,516.2934315184298,516
+2023,Newfoundland and Labrador Total,Gander,487.3100981818659,487
+2023,Newfoundland and Labrador Total,Grand Falls-Windsor,425.21009818485874,425
+2023,Newfoundland and Labrador Total,Other - Newfoundland and Labrador,957.8434315189052,958
+2023,Newfoundland and Labrador Total,St. John's,2217.226764846796,2217
+2023,Northwest Territories Total,Other - Northwest Territories,401.14323507727545,401
+2023,Northwest Territories Total,"Territories (outside Census agglomeration, Northwest Territories)",414.2765684140382,414
+2023,Northwest Territories Total,Yellowknife,568.8599017410123,569
+2023,Nova Scotia Total,Cape Breton,755.0602104530884,755
+2023,Nova Scotia Total,Halifax,6194.639217132633,6195
+2023,Nova Scotia Total,Kentville,544.8268771228013,545
+2023,Nova Scotia Total,New Glasgow,453.3102104550869,453
+2023,Nova Scotia Total,Other - Nova Scotia,1122.976877122166,1123
+2023,Nova Scotia Total,Truro,589.7435437863587,590
+2023,Nunavut Total,Other - Nunavut,401.12707000600267,401
+2023,Nunavut Total,"Territories (outside Census agglomeration, Nunavut)",425.07707000698247,425
+2023,Ontario Total,Barrie,1119.2892322678235,1119
+2023,Ontario Total,Belleville - Quinte West,656.2225656057118,656
+2023,Ontario Total,Brantford,869.8392322747115,870
+2023,Ontario Total,Brockville,437.5892322707001,438
+2023,Ontario Total,Centre Wellington,412.03923226836696,412
+2023,Ontario Total,Chatham-Kent,579.2225656056729,579
+2023,Ontario Total,Cobourg,410.65589893490267,411
+2023,Ontario Total,Collingwood,454.12256560820015,454
+2023,Ontario Total,Cornwall,707.1225656070748,707
+2023,Ontario Total,Elliot Lake,401.4225656022969,401
+2023,Ontario Total,Essa,425.922565604145,426
+2023,Ontario Total,Greater Sudbury,1039.0058989362124,1039
+2023,Ontario Total,Guelph,1468.7058989314926,1469
+2023,Ontario Total,Hamilton,4400.144921009507,4400
+2023,Ontario Total,Hawkesbury (Ontario part),450.6892322716945,451
+2023,Ontario Total,Ingersoll,410.5725656059446,411
+2023,Ontario Total,Kawartha Lakes,429.98923226763935,430
+2023,Ontario Total,Kenora,409.6058989411066,410
+2023,Ontario Total,Kingston,1014.5558989366876,1015
+2023,Ontario Total,Kitchener - Cambridge - Waterloo,6152.745105469886,6153
+2023,Ontario Total,London,4151.589232267218,4152
+2023,Ontario Total,Midland,426.35589893600377,426
+2023,Ontario Total,Norfolk,471.37256560249097,471
+2023,Ontario Total,North Bay,572.6225656079285,573
+2023,Ontario Total,Orillia,460.42256560698263,460
+2023,Ontario Total,Oshawa,1764.5392322691528,1765
+2023,Ontario Total,Other - Ontario,1552.4892322687258,1552
+2023,Ontario Total,Ottawa - Gatineau (Ontario part),16388.911615120585,16389
+2023,Ontario Total,Owen Sound,433.47256560672554,433
+2023,Ontario Total,Pembroke,403.40589893952534,403
+2023,Ontario Total,Petawawa,410.5725656042372,411
+2023,Ontario Total,Peterborough,745.3725656054304,745
+2023,Ontario Total,Port Hope,402.40589893941376,402
+2023,Ontario Total,Sarnia,601.4392322676151,601
+2023,Ontario Total,Sault Ste. Marie,768.7725656033543,769
+2023,Ontario Total,St. Catharines - Niagara,2034.789232268658,2035
+2023,Ontario Total,Stratford,490.87256560825347,491
+2023,Ontario Total,Thunder Bay,964.3725656035144,964
+2023,Ontario Total,Tillsonburg,413.0892322710348,413
+2023,Ontario Total,Timmins,542.4725656046107,542
+2023,Ontario Total,Toronto,122868.91293609324,122869
+2023,Ontario Total,Wasaga Beach,415.5058989369787,416
+2023,Ontario Total,Windsor,3020.1225656019624,3020
+2023,Ontario Total,Woodstock,542.3892322727568,542
+2023,Prince Edward Island Total,Charlottetown,1754.1440436806095,1754
+2023,Prince Edward Island Total,Other - Prince Edward Island,757.9773770184539,758
+2023,Prince Edward Island Total,Summerside,679.977377011304,680
+2023,Province/territory not stated,Other ,413.16002170326163,413
+2023,Quebec Total,Alma,412.545363917622,413
+2023,Quebec Total,Amos,402.2120305830711,402
+2023,Quebec Total,Baie-Comeau,413.3120305900415,413
+2023,Quebec Total,Cowansville,407.7786972536523,408
+2023,Quebec Total,Dolbeau-Mistassini,404.52869725486977,405
+2023,Quebec Total,Drummondville,602.6286972562667,603
+2023,Quebec Total,Granby,553.628697253856,554
+2023,Quebec Total,Hawkesbury (Quebec part),401.1786972565481,401
+2023,Quebec Total,Joliette,476.6786972523329,477
+2023,Quebec Total,Lachute,402.62869725083885,403
+2023,Quebec Total,Matane,409.84536392056145,410
+2023,Quebec Total,Montréal,38442.80768329394,38443
+2023,Quebec Total,Other - Quebec,1343.5786972498252,1344
+2023,Quebec Total,Ottawa - Gatineau (Quebec part),1551.4453639160552,1551
+2023,Quebec Total,Québec,3813.045363913596,3813
+2023,Quebec Total,Rimouski,533.228697254763,533
+2023,Quebec Total,Rivière-du-Loup,427.64536392096403,428
+2023,Quebec Total,Rouyn-Noranda,547.4786972535697,547
+2023,Quebec Total,Saguenay,576.3453639219972,576
+2023,Quebec Total,Saint-Georges,448.2453639191499,448
+2023,Quebec Total,Saint-Hyacinthe,549.7953639222155,550
+2023,Quebec Total,Sainte-Agathe-des-Monts,404.91203058698557,405
+2023,Quebec Total,Sainte-Marie,416.06203058638897,416
+2023,Quebec Total,Salaberry-de-Valleyfield,426.6953639178936,427
+2023,Quebec Total,Sept-Îles,435.2120305878636,435
+2023,Quebec Total,Shawinigan,432.7786972518478,433
+2023,Quebec Total,Sherbrooke,1179.2286972475986,1179
+2023,Quebec Total,Sorel-Tracy,419.8120305884456,420
+2023,Quebec Total,Thetford Mines,434.41203059128327,434
+2023,Quebec Total,Trois-Rivières,795.112030583949,795
+2023,Quebec Total,Val-d'Or,436.9120305910359,437
+2023,Quebec Total,Victoriaville,499.8286972552433,500
+2023,Saskatchewan Total,Estevan,512.4436030836962,512
+2023,Saskatchewan Total,Lloydminster (Saskatchewan part),523.9769364199932,524
+2023,Saskatchewan Total,Moose Jaw,800.6769364180773,801
+2023,Saskatchewan Total,North Battleford,606.2436030884256,606
+2023,Saskatchewan Total,Other - Saskatchewan,1997.9602697459147,1998
+2023,Saskatchewan Total,Prince Albert,855.2602697554414,855
+2023,Saskatchewan Total,Regina,6270.059052235221,6270
+2023,Saskatchewan Total,Saskatoon,6533.468543059435,6533
+2023,Saskatchewan Total,Swift Current,583.7269364223409,584
+2023,Saskatchewan Total,Weyburn,529.810269752337,530
+2023,Saskatchewan Total,Yorkton,592.2769364210216,592
+2023,Yukon Total,Other - Yukon,404.60997325181586,405
+2023,Yukon Total,"Territories (outside Census agglomeration, Yukon)",440.57663992072355,441
+2023,Yukon Total,Whitehorse,789.6766399187056,790
+2024,Alberta Total,Brooks,961.0983439289685,961
+2024,Alberta Total,Calgary,25285.776599181554,25286
+2024,Alberta Total,Camrose,506.7316772649309,507
+2024,Alberta Total,Canmore,579.0650106009175,579
+2024,Alberta Total,Edmonton,19389.794104500783,19390
+2024,Alberta Total,Grande Prairie,1051.2316772596826,1051
+2024,Alberta Total,High River,523.1316772666529,523
+2024,Alberta Total,Lacombe,498.73167726474657,499
+2024,Alberta Total,Lethbridge,1016.065010595606,1016
+2024,Alberta Total,Lloydminster (Alberta part),535.1816772638783,535
+2024,Alberta Total,Medicine Hat,702.0816772637473,702
+2024,Alberta Total,Okotoks,517.2150106010727,517
+2024,Alberta Total,Other - Alberta,2725.1150105949414,2725
+2024,Alberta Total,Red Deer,1104.1816772605362,1104
+2024,Alberta Total,Strathmore,483.9150106020817,484
+2024,Alberta Total,Sylvan Lake,478.2650105991567,478
+2024,Alberta Total,Wetaskiwin,498.7816772671088,499
+2024,Alberta Total,Wood Buffalo,1325.0650105941556,1325
+2024,British Columbia Total,Abbotsford - Mission,1868.2658779453711,1868
+2024,British Columbia Total,Campbell River,527.1825446126198,527
+2024,British Columbia Total,Chilliwack,713.5492112775063,714
+2024,British Columbia Total,Courtenay,576.5825446106262,577
+2024,British Columbia Total,Cranbrook,494.64921127768577,495
+2024,British Columbia Total,Dawson Creek,549.0325446133862,549
+2024,British Columbia Total,Duncan,537.8992112777343,538
+2024,British Columbia Total,Fort St. John,622.9825446101363,623
+2024,British Columbia Total,Kamloops,849.5492112793544,850
+2024,British Columbia Total,Kelowna,1383.482544613037,1383
+2024,British Columbia Total,Ladysmith,455.3992112777343,455
+2024,British Columbia Total,Nanaimo,859.0158779416555,859
+2024,British Columbia Total,Nelson,555.7325446132553,556
+2024,British Columbia Total,Other - British Columbia,1799.399211278001,1799
+2024,British Columbia Total,Parksville,477.4492112832398,477
+2024,British Columbia Total,Penticton,550.5658779449103,551
+2024,British Columbia Total,Port Alberni,473.0992112795872,473
+2024,British Columbia Total,Powell River,466.21587794612293,466
+2024,British Columbia Total,Prince George,779.432544610437,779
+2024,British Columbia Total,Prince Rupert,477.9158779494262,478
+2024,British Columbia Total,Quesnel,471.3492112795872,471
+2024,British Columbia Total,Salmon Arm,510.6825446103982,511
+2024,British Columbia Total,Squamish,608.1158779472144,608
+2024,British Columbia Total,Terrace,544.2658779456087,544
+2024,British Columbia Total,Trail,489.6992112786171,490
+2024,British Columbia Total,Vancouver,43816.83690730009,43817
+2024,British Columbia Total,Vernon,731.4825446100344,731
+2024,British Columbia Total,Victoria,2431.0658779377654,2431
+2024,British Columbia Total,Williams Lake,488.84921128122187,489
+2024,Manitoba Total,Brandon,1488.3647223267346,1488
+2024,Manitoba Total,Other - Manitoba,1623.6480556518509,1624
+2024,Manitoba Total,Portage la Prairie,581.5480556559353,582
+2024,Manitoba Total,Steinbach,695.4647223239989,695
+2024,Manitoba Total,Thompson,611.8980556527484,612
+2024,Manitoba Total,Winkler,1065.6980556559354,1066
+2024,Manitoba Total,Winnipeg,15320.253215155597,15320
+2024,New Brunswick Total,Bathurst,644.6813992883527,645
+2024,New Brunswick Total,Campbellton (New Brunswick part),503.7480659515996,504
+2024,New Brunswick Total,Edmundston,813.6147326179946,814
+2024,New Brunswick Total,Fredericton,1632.9813992768857,1633
+2024,New Brunswick Total,Miramichi,592.1647326198184,592
+2024,New Brunswick Total,Moncton,3735.448065944901,3735
+2024,New Brunswick Total,Other - New Brunswick,1426.781399283531,1427
+2024,New Brunswick Total,Saint John,1617.9313992817024,1618
+2024,Newfoundland and Labrador Total,Corner Brook,571.4979660032493,571
+2024,Newfoundland and Labrador Total,Gander,549.9646326666855,550
+2024,Newfoundland and Labrador Total,Grand Falls-Windsor,476.61463266967826,477
+2024,Newfoundland and Labrador Total,Other - Newfoundland and Labrador,1035.581299337058,1036
+2024,Newfoundland and Labrador Total,St. John's,2384.1312993316155,2384
+2024,Northwest Territories Total,Other - Northwest Territories,448.3144362287617,448
+2024,Northwest Territories Total,"Territories (outside Census agglomeration, Northwest Territories)",464.4311028988577,464
+2024,Northwest Territories Total,Yellowknife,640.3144362258319,640
+2024,Nova Scotia Total,Cape Breton,795.7647449379081,796
+2024,Nova Scotia Total,Halifax,6736.310418284119,6736
+2024,Nova Scotia Total,Kentville,609.8814116076209,610
+2024,Nova Scotia Total,New Glasgow,530.7980782732398,531
+2024,Nova Scotia Total,Other - Nova Scotia,1420.2147449403187,1420
+2024,Nova Scotia Total,Truro,683.1980782711782,683
+2024,Nunavut Total,Other - Nunavut,448.11493782415556,448
+2024,Nunavut Total,"Territories (outside Census agglomeration, Nunavut)",473.1649378251354,473
+2024,Ontario Total,Barrie,1233.51043341931,1234
+2024,Ontario Total,Belleville - Quinte West,686.093766757198,686
+2024,Ontario Total,Brantford,938.7271000928645,939
+2024,Ontario Total,Brockville,471.877100088853,472
+2024,Ontario Total,Centre Wellington,467.3771000865198,467
+2024,Ontario Total,Chatham-Kent,638.7937667571591,639
+2024,Ontario Total,Cobourg,462.67710008638886,463
+2024,Ontario Total,Collingwood,484.8771000930197,485
+2024,Ontario Total,Cornwall,776.293766758561,776
+2024,Ontario Total,Elliot Lake,448.4104334204498,448
+2024,Ontario Total,Essa,483.2104334222979,483
+2024,Ontario Total,Greater Sudbury,1178.3104334210318,1178
+2024,Ontario Total,Guelph,1580.5271000829787,1581
+2024,Ontario Total,Hamilton,4481.599455494326,4482
+2024,Ontario Total,Hawkesbury (Ontario part),539.7771000898474,540
+2024,Ontario Total,Ingersoll,459.8937667574308,460
+2024,Ontario Total,Kawartha Lakes,476.5437667524589,477
+2024,Ontario Total,Kenora,460.5937667592595,461
+2024,Ontario Total,Kingston,1085.727100088174,1086
+2024,Ontario Total,Kitchener - Cambridge - Waterloo,6373.416306621372,6373
+2024,Ontario Total,London,4306.960433418703,4307
+2024,Ontario Total,Midland,479.74376675415664,480
+2024,Ontario Total,Norfolk,516.4771000873105,516
+2024,Ontario Total,North Bay,638.3271000927481,638
+2024,Ontario Total,Orillia,511.12710009180216,511
+2024,Ontario Total,Oshawa,2070.4437667539723,2070
+2024,Ontario Total,Other - Ontario,1780.5937667535454,1781
+2024,Ontario Total,Ottawa - Gatineau (Ontario part),18984.831281860752,18985
+2024,Ontario Total,Owen Sound,491.1604334248784,491
+2024,Ontario Total,Pembroke,456.31043342434486,456
+2024,Ontario Total,Petawawa,453.41043342239004,453
+2024,Ontario Total,Peterborough,783.6604334235833,784
+2024,Ontario Total,Port Hope,451.1937667575666,451
+2024,Ontario Total,Sarnia,636.1604334191013,636
+2024,Ontario Total,Sault Ste. Marie,867.4771000881739,867
+2024,Ontario Total,St. Catharines - Niagara,2073.210433420144,2073
+2024,Ontario Total,Stratford,542.0937667597398,542
+2024,Ontario Total,Thunder Bay,1010.677100088334,1011
+2024,Ontario Total,Tillsonburg,455.84376675585435,456
+2024,Ontario Total,Timmins,593.2937667560969,593
+2024,Ontario Total,Toronto,118831.79081295492,118832
+2024,Ontario Total,Wasaga Beach,455.6604334217983,456
+2024,Ontario Total,Windsor,3251.6771000867816,3252
+2024,Ontario Total,Woodstock,595.4771000909096,595
+2024,Prince Edward Island Total,Charlottetown,1927.8319114987623,1928
+2024,Prince Edward Island Total,Other - Prince Edward Island,787.0152448366068,787
+2024,Prince Edward Island Total,Summerside,788.6485781627903,789
+2024,Province/territory not stated,Other ,465.2145561880812,465
+2024,Quebec Total,Alma,469.4165650691082,469
+2024,Quebec Total,Amos,454.799898401224,455
+2024,Quebec Total,Baie-Comeau,476.11656507486106,476
+2024,Quebec Total,Cowansville,462.14989840513846,462
+2024,Quebec Total,Dolbeau-Mistassini,452.2832317396893,452
+2024,Quebec Total,Drummondville,738.4832317410863,738
+2024,Quebec Total,Granby,617.1332317386756,617
+2024,Quebec Total,Hawkesbury (Quebec part),448.2332317413676,448
+2024,Quebec Total,Joliette,524.6665650704858,525
+2024,Quebec Total,Lachute,448.78323173565843,449
+2024,Quebec Total,Matane,456.91656507204766,457
+2024,Quebec Total,Montréal,38623.66221777876,38624
+2024,Quebec Total,Other - Quebec,2016.7332317346447,2017
+2024,Quebec Total,Ottawa - Gatineau (Quebec part),1694.333231734208,1694
+2024,Quebec Total,Québec,4622.733231731749,4623
+2024,Quebec Total,Rimouski,555.2832317395826,555
+2024,Quebec Total,Rivière-du-Loup,490.5998984057836,491
+2024,Quebec Total,Rouyn-Noranda,633.249898405056,633
+2024,Quebec Total,Saguenay,666.1165650734835,666
+2024,Quebec Total,Saint-Georges,542.7498984039695,543
+2024,Quebec Total,Saint-Hyacinthe,600.7332317403684,601
+2024,Quebec Total,Sainte-Agathe-des-Monts,455.61656507180516,456
+2024,Quebec Total,Sainte-Marie,475.8665650712085,476
+2024,Quebec Total,Salaberry-de-Valleyfield,490.4832317360465,490
+2024,Quebec Total,Sept-Îles,486.88323173934975,487
+2024,Quebec Total,Shawinigan,504.1165650700007,504
+2024,Quebec Total,Sherbrooke,1233.8498983990849,1234
+2024,Quebec Total,Sorel-Tracy,472.53323173993186,473
+2024,Quebec Total,Thetford Mines,489.9165650761028,490
+2024,Quebec Total,Trois-Rivières,1019.5832317354352,1020
+2024,Quebec Total,Val-d'Or,501.3165650758554,501
+2024,Quebec Total,Victoriaville,545.1832317400629,545
+2024,Saskatchewan Total,Estevan,572.0648042351825,572
+2024,Saskatchewan Total,Lloydminster (Saskatchewan part),567.3981375714795,567
+2024,Saskatchewan Total,Moose Jaw,930.3981375695635,930
+2024,Saskatchewan Total,North Battleford,663.0814709065784,663
+2024,Saskatchewan Total,Other - Saskatchewan,2095.648137564068,2096
+2024,Saskatchewan Total,Prince Albert,914.8314709069276,915
+2024,Saskatchewan Total,Regina,5947.730253386708,5948
+2024,Saskatchewan Total,Saskatoon,6303.939744210921,6304
+2024,Saskatchewan Total,Swift Current,628.1981375738271,628
+2024,Saskatchewan Total,Weyburn,569.0148042371566,569
+2024,Saskatchewan Total,Yorkton,638.2481375725079,638
+2024,Yukon Total,Other - Yukon,448.51450773663544,449
+2024,Yukon Total,"Territories (outside Census agglomeration, Yukon)",483.4811744055431,483
+2024,Yukon Total,Whitehorse,859.7311744035252,860
+2025,Alberta Total,Brooks,1008.0362117471213,1008
+2025,Alberta Total,Calgary,25332.714466999707,25333
+2025,Alberta Total,Camrose,553.6695450830838,554
+2025,Alberta Total,Canmore,626.0028784190704,626
+2025,Alberta Total,Edmonton,19436.731972318936,19437
+2025,Alberta Total,Grande Prairie,1098.1695450778354,1098
+2025,Alberta Total,High River,570.0695450848058,570
+2025,Alberta Total,Lacombe,545.6695450828994,546
+2025,Alberta Total,Lethbridge,1063.002878413759,1063
+2025,Alberta Total,Lloydminster (Alberta part),582.1195450820312,582
+2025,Alberta Total,Medicine Hat,749.0195450819002,749
+2025,Alberta Total,Okotoks,564.1528784192257,564
+2025,Alberta Total,Other - Alberta,2772.0528784130943,2772
+2025,Alberta Total,Red Deer,1151.119545078689,1151
+2025,Alberta Total,Strathmore,530.8528784202346,531
+2025,Alberta Total,Sylvan Lake,525.2028784173096,525
+2025,Alberta Total,Wetaskiwin,545.7195450852616,546
+2025,Alberta Total,Wood Buffalo,1372.0028784123085,1372
+2025,British Columbia Total,Abbotsford - Mission,1915.203745763524,1915
+2025,British Columbia Total,Campbell River,574.1204124307727,574
+2025,British Columbia Total,Chilliwack,760.4870790956592,760
+2025,British Columbia Total,Courtenay,623.5204124287791,624
+2025,British Columbia Total,Cranbrook,541.5870790958387,542
+2025,British Columbia Total,Dawson Creek,595.9704124315537,596
+2025,British Columbia Total,Duncan,584.8370790958871,585
+2025,British Columbia Total,Fort St. John,669.9204124282892,670
+2025,British Columbia Total,Kamloops,896.4870790975073,896
+2025,British Columbia Total,Kelowna,1430.4204124311898,1430
+2025,British Columbia Total,Ladysmith,502.33707909588713,502
+2025,British Columbia Total,Nanaimo,905.9537457597938,906
+2025,British Columbia Total,Nelson,602.6704124314082,603
+2025,British Columbia Total,Other - British Columbia,1846.337079096154,1846
+2025,British Columbia Total,Parksville,524.3870791013926,524
+2025,British Columbia Total,Penticton,597.5037457630632,598
+2025,British Columbia Total,Port Alberni,520.0370790977402,520
+2025,British Columbia Total,Powell River,513.1537457642758,513
+2025,British Columbia Total,Prince George,826.3704124285899,826
+2025,British Columbia Total,Prince Rupert,524.8537457675791,525
+2025,British Columbia Total,Quesnel,518.2870790977402,518
+2025,British Columbia Total,Salmon Arm,557.6204124285512,558
+2025,British Columbia Total,Squamish,655.0537457653672,655
+2025,British Columbia Total,Terrace,591.2037457637616,591
+2025,British Columbia Total,Trail,536.63707909677,537
+2025,British Columbia Total,Vancouver,43863.77477511824,43864
+2025,British Columbia Total,Vernon,778.4204124281873,778
+2025,British Columbia Total,Victoria,2478.0037457559183,2478
+2025,British Columbia Total,Williams Lake,535.7870790993748,536
+2025,Manitoba Total,Brandon,1535.3025901448875,1535
+2025,Manitoba Total,Other - Manitoba,1670.5859234700038,1671
+2025,Manitoba Total,Portage la Prairie,628.4859234740882,628
+2025,Manitoba Total,Steinbach,742.4025901421518,742
+2025,Manitoba Total,Thompson,658.8359234709013,659
+2025,Manitoba Total,Winkler,1112.6359234740883,1113
+2025,Manitoba Total,Winnipeg,15367.19108297375,15367
+2025,New Brunswick Total,Bathurst,691.6192671065055,692
+2025,New Brunswick Total,Campbellton (New Brunswick part),550.6859337697525,551
+2025,New Brunswick Total,Edmundston,860.5526004361475,861
+2025,New Brunswick Total,Fredericton,1679.9192670950385,1680
+2025,New Brunswick Total,Miramichi,639.1026004379713,639
+2025,New Brunswick Total,Moncton,3782.385933763054,3782
+2025,New Brunswick Total,Other - New Brunswick,1473.719267101684,1474
+2025,New Brunswick Total,Saint John,1664.8692670998553,1665
+2025,Newfoundland and Labrador Total,Corner Brook,618.4358338214022,618
+2025,Newfoundland and Labrador Total,Gander,596.9025004848384,597
+2025,Newfoundland and Labrador Total,Grand Falls-Windsor,523.5525004878311,524
+2025,Newfoundland and Labrador Total,Other - Newfoundland and Labrador,1082.5191671552109,1083
+2025,Newfoundland and Labrador Total,St. John's,2431.0691671497684,2431
+2025,Northwest Territories Total,Other - Northwest Territories,495.25230404691456,495
+2025,Northwest Territories Total,"Territories (outside Census agglomeration, Northwest Territories)",511.3689707170106,511
+2025,Northwest Territories Total,Yellowknife,687.2523040439847,687
+2025,Nova Scotia Total,Cape Breton,842.702612756061,843
+2025,Nova Scotia Total,Halifax,6783.248286102272,6783
+2025,Nova Scotia Total,Kentville,656.8192794257737,657
+2025,Nova Scotia Total,New Glasgow,577.7359460913926,578
+2025,Nova Scotia Total,Other - Nova Scotia,1467.1526127584716,1467
+2025,Nova Scotia Total,Truro,730.1359460893311,730
+2025,Nunavut Total,Other - Nunavut,495.05280564230844,495
+2025,Nunavut Total,"Territories (outside Census agglomeration, Nunavut)",520.1028056432883,520
+2025,Ontario Total,Barrie,1280.4483012374628,1280
+2025,Ontario Total,Belleville - Quinte West,733.0316345753508,733
+2025,Ontario Total,Brantford,985.6649679110174,986
+2025,Ontario Total,Brockville,518.8149679070059,519
+2025,Ontario Total,Centre Wellington,514.3149679046727,514
+2025,Ontario Total,Chatham-Kent,685.731634575312,686
+2025,Ontario Total,Cobourg,509.61496790454174,510
+2025,Ontario Total,Collingwood,531.8149679111726,532
+2025,Ontario Total,Cornwall,823.231634576714,823
+2025,Ontario Total,Elliot Lake,495.3483012386027,495
+2025,Ontario Total,Essa,530.1483012404508,530
+2025,Ontario Total,Greater Sudbury,1225.2483012391847,1225
+2025,Ontario Total,Guelph,1627.4649679011316,1627
+2025,Ontario Total,Hamilton,4528.537323312479,4529
+2025,Ontario Total,Hawkesbury (Ontario part),586.7149679080003,587
+2025,Ontario Total,Ingersoll,506.83163457558373,507
+2025,Ontario Total,Kawartha Lakes,523.4816345706117,523
+2025,Ontario Total,Kenora,507.5316345774124,508
+2025,Ontario Total,Kingston,1132.6649679063269,1133
+2025,Ontario Total,Kitchener - Cambridge - Waterloo,6420.354174439525,6420
+2025,Ontario Total,London,4353.898301236856,4354
+2025,Ontario Total,Midland,526.6816345723096,527
+2025,Ontario Total,Norfolk,563.4149679054634,563
+2025,Ontario Total,North Bay,685.264967910901,685
+2025,Ontario Total,Orillia,558.064967909955,558
+2025,Ontario Total,Oshawa,2117.381634572125,2117
+2025,Ontario Total,Other - Ontario,1827.5316345716983,1828
+2025,Ontario Total,Ottawa - Gatineau (Ontario part),19031.769149678905,19032
+2025,Ontario Total,Owen Sound,538.0983012430313,538
+2025,Ontario Total,Pembroke,503.24830124249775,503
+2025,Ontario Total,Petawawa,500.3483012405429,500
+2025,Ontario Total,Peterborough,830.5983012417362,831
+2025,Ontario Total,Port Hope,498.1316345757195,498
+2025,Ontario Total,Sarnia,683.0983012372542,683
+2025,Ontario Total,Sault Ste. Marie,914.4149679063268,914
+2025,Ontario Total,St. Catharines - Niagara,2120.148301238297,2120
+2025,Ontario Total,Stratford,589.0316345778926,589
+2025,Ontario Total,Thunder Bay,1057.6149679064868,1058
+2025,Ontario Total,Tillsonburg,502.7816345740072,503
+2025,Ontario Total,Timmins,640.2316345742498,640
+2025,Ontario Total,Toronto,118878.72868077307,118879
+2025,Ontario Total,Wasaga Beach,502.5983012399512,503
+2025,Ontario Total,Windsor,3298.6149679049345,3299
+2025,Ontario Total,Woodstock,642.4149679090625,642
+2025,Prince Edward Island Total,Charlottetown,1974.7697793169152,1975
+2025,Prince Edward Island Total,Other - Prince Edward Island,833.9531126547597,834
+2025,Prince Edward Island Total,Summerside,835.5864459809432,836
+2025,Province/territory not stated,Other ,512.1524240062341,512
+2025,Quebec Total,Alma,516.354432887261,516
+2025,Quebec Total,Amos,501.7377662193769,502
+2025,Quebec Total,Baie-Comeau,523.0544328930139,523
+2025,Quebec Total,Cowansville,509.08776622329134,509
+2025,Quebec Total,Dolbeau-Mistassini,499.2210995578422,499
+2025,Quebec Total,Drummondville,785.4210995592392,785
+2025,Quebec Total,Granby,664.0710995568285,664
+2025,Quebec Total,Hawkesbury (Quebec part),495.17109955952054,495
+2025,Quebec Total,Joliette,571.6044328886387,572
+2025,Quebec Total,Lachute,495.7210995538113,496
+2025,Quebec Total,Matane,503.85443289020054,504
+2025,Quebec Total,Montréal,38670.60008559691,38671
+2025,Quebec Total,Other - Quebec,2063.6710995527974,2064
+2025,Quebec Total,Ottawa - Gatineau (Quebec part),1741.271099552361,1741
+2025,Quebec Total,Québec,4669.671099549902,4670
+2025,Quebec Total,Rimouski,602.2210995577354,602
+2025,Quebec Total,Rivière-du-Loup,537.5377662239365,538
+2025,Quebec Total,Rouyn-Noranda,680.1877662232089,680
+2025,Quebec Total,Saguenay,713.0544328916363,713
+2025,Quebec Total,Saint-Georges,589.6877662221224,590
+2025,Quebec Total,Saint-Hyacinthe,647.6710995585213,648
+2025,Quebec Total,Sainte-Agathe-des-Monts,502.55443288995804,503
+2025,Quebec Total,Sainte-Marie,522.8044328893614,523
+2025,Quebec Total,Salaberry-de-Valleyfield,537.4210995541994,537
+2025,Quebec Total,Sept-Îles,533.8210995575026,534
+2025,Quebec Total,Shawinigan,551.0544328881537,551
+2025,Quebec Total,Sherbrooke,1280.7877662172377,1281
+2025,Quebec Total,Sorel-Tracy,519.4710995580847,519
+2025,Quebec Total,Thetford Mines,536.8544328942558,537
+2025,Quebec Total,Trois-Rivières,1066.521099553588,1067
+2025,Quebec Total,Val-d'Or,548.2544328940083,548
+2025,Quebec Total,Victoriaville,592.1210995582157,592
+2025,Saskatchewan Total,Estevan,619.0026720533353,619
+2025,Saskatchewan Total,Lloydminster (Saskatchewan part),614.3360053896324,614
+2025,Saskatchewan Total,Moose Jaw,977.3360053877163,977
+2025,Saskatchewan Total,North Battleford,710.0193387247313,710
+2025,Saskatchewan Total,Other - Saskatchewan,2142.5860053822207,2143
+2025,Saskatchewan Total,Prince Albert,961.7693387250805,962
+2025,Saskatchewan Total,Regina,5994.668121204861,5995
+2025,Saskatchewan Total,Saskatoon,6350.877612029074,6351
+2025,Saskatchewan Total,Swift Current,675.13600539198,675
+2025,Saskatchewan Total,Weyburn,615.9526720553094,616
+2025,Saskatchewan Total,Yorkton,685.1860053906607,685
+2025,Yukon Total,Other - Yukon,495.4523755547883,495
+2025,Yukon Total,"Territories (outside Census agglomeration, Yukon)",530.419042223696,530
+2025,Yukon Total,Whitehorse,906.6690422216781,907
+2026,Alberta Total,Brooks,1054.9740795652742,1055
+2026,Alberta Total,Calgary,25379.65233481786,25380
+2026,Alberta Total,Camrose,600.6074129012367,601
+2026,Alberta Total,Canmore,672.9407462372233,673
+2026,Alberta Total,Edmonton,19483.66984013709,19484
+2026,Alberta Total,Grande Prairie,1145.1074128959883,1145
+2026,Alberta Total,High River,617.0074129029587,617
+2026,Alberta Total,Lacombe,592.6074129010523,593
+2026,Alberta Total,Lethbridge,1109.9407462319118,1110
+2026,Alberta Total,Lloydminster (Alberta part),629.0574129001841,629
+2026,Alberta Total,Medicine Hat,795.9574129000531,796
+2026,Alberta Total,Okotoks,611.0907462373785,611
+2026,Alberta Total,Other - Alberta,2818.990746231247,2819
+2026,Alberta Total,Red Deer,1198.057412896842,1198
+2026,Alberta Total,Strathmore,577.7907462383874,578
+2026,Alberta Total,Sylvan Lake,572.1407462354625,572
+2026,Alberta Total,Wetaskiwin,592.6574129034145,593
+2026,Alberta Total,Wood Buffalo,1418.9407462304614,1419
+2026,British Columbia Total,Abbotsford - Mission,1962.141613581677,1962
+2026,British Columbia Total,Campbell River,621.0582802489256,621
+2026,British Columbia Total,Chilliwack,807.424946913812,807
+2026,British Columbia Total,Courtenay,670.458280246932,670
+2026,British Columbia Total,Cranbrook,588.5249469139916,589
+2026,British Columbia Total,Dawson Creek,642.908280249692,643
+2026,British Columbia Total,Duncan,631.77494691404,632
+2026,British Columbia Total,Fort St. John,716.8582802464421,717
+2026,British Columbia Total,Kamloops,943.4249469156601,943
+2026,British Columbia Total,Kelowna,1477.3582802493427,1477
+2026,British Columbia Total,Ladysmith,549.27494691404,549
+2026,British Columbia Total,Nanaimo,952.8916135779613,953
+2026,British Columbia Total,Nelson,649.6082802495611,650
+2026,British Columbia Total,Other - British Columbia,1893.2749469143068,1893
+2026,British Columbia Total,Parksville,571.3249469195455,571
+2026,British Columbia Total,Penticton,644.4416135812161,644
+2026,British Columbia Total,Port Alberni,566.974946915893,567
+2026,British Columbia Total,Powell River,560.0916135824287,560
+2026,British Columbia Total,Prince George,873.3082802467428,873
+2026,British Columbia Total,Prince Rupert,571.791613585732,572
+2026,British Columbia Total,Quesnel,565.224946915893,565
+2026,British Columbia Total,Salmon Arm,604.558280246704,605
+2026,British Columbia Total,Squamish,701.9916135835201,702
+2026,British Columbia Total,Terrace,638.1416135819145,638
+2026,British Columbia Total,Trail,583.5749469149229,584
+2026,British Columbia Total,Vancouver,43910.71264293639,43911
+2026,British Columbia Total,Vernon,825.3582802463402,825
+2026,British Columbia Total,Victoria,2524.941613574071,2525
+2026,British Columbia Total,Williams Lake,582.7249469175276,583
+2026,Manitoba Total,Brandon,1582.2404579630404,1582
+2026,Manitoba Total,Other - Manitoba,1717.5237912881566,1718
+2026,Manitoba Total,Portage la Prairie,675.423791292241,675
+2026,Manitoba Total,Steinbach,789.3404579603047,789
+2026,Manitoba Total,Thompson,705.7737912890542,706
+2026,Manitoba Total,Winkler,1159.5737912922411,1160
+2026,Manitoba Total,Winnipeg,15414.128950791903,15414
+2026,New Brunswick Total,Bathurst,738.5571349246584,739
+2026,New Brunswick Total,Campbellton (New Brunswick part),597.6238015879054,598
+2026,New Brunswick Total,Edmundston,907.4904682543004,907
+2026,New Brunswick Total,Fredericton,1726.8571349131914,1727
+2026,New Brunswick Total,Miramichi,686.0404682561242,686
+2026,New Brunswick Total,Moncton,3829.3238015812067,3829
+2026,New Brunswick Total,Other - New Brunswick,1520.6571349198368,1521
+2026,New Brunswick Total,Saint John,1711.8071349180082,1712
+2026,Newfoundland and Labrador Total,Corner Brook,665.3737016395551,665
+2026,Newfoundland and Labrador Total,Gander,643.8403683029912,644
+2026,Newfoundland and Labrador Total,Grand Falls-Windsor,570.490368305984,570
+2026,Newfoundland and Labrador Total,Other - Newfoundland and Labrador,1129.4570349733638,1129
+2026,Newfoundland and Labrador Total,St. John's,2478.0070349679213,2478
+2026,Northwest Territories Total,Other - Northwest Territories,542.1901718650674,542
+2026,Northwest Territories Total,"Territories (outside Census agglomeration, Northwest Territories)",558.3068385351635,558
+2026,Northwest Territories Total,Yellowknife,734.1901718621376,734
+2026,Nova Scotia Total,Cape Breton,889.6404805742138,890
+2026,Nova Scotia Total,Halifax,6830.186153920425,6830
+2026,Nova Scotia Total,Kentville,703.7571472439266,704
+2026,Nova Scotia Total,New Glasgow,624.6738139095455,625
+2026,Nova Scotia Total,Other - Nova Scotia,1514.0904805766245,1514
+2026,Nova Scotia Total,Truro,777.073813907484,777
+2026,Nunavut Total,Other - Nunavut,541.9906734604613,542
+2026,Nunavut Total,"Territories (outside Census agglomeration, Nunavut)",567.0406734614412,567
+2026,Ontario Total,Barrie,1327.3861690556157,1327
+2026,Ontario Total,Belleville - Quinte West,779.9695023935037,780
+2026,Ontario Total,Brantford,1032.6028357291702,1033
+2026,Ontario Total,Brockville,565.7528357251588,566
+2026,Ontario Total,Centre Wellington,561.2528357228256,561
+2026,Ontario Total,Chatham-Kent,732.669502393465,733
+2026,Ontario Total,Cobourg,556.5528357226947,557
+2026,Ontario Total,Collingwood,578.7528357293255,579
+2026,Ontario Total,Cornwall,870.1695023948668,870
+2026,Ontario Total,Elliot Lake,542.2861690567555,542
+2026,Ontario Total,Essa,577.0861690586037,577
+2026,Ontario Total,Greater Sudbury,1272.1861690573376,1272
+2026,Ontario Total,Guelph,1674.4028357192847,1674
+2026,Ontario Total,Hamilton,4575.475191130632,4575
+2026,Ontario Total,Hawkesbury (Ontario part),633.6528357261532,634
+2026,Ontario Total,Ingersoll,553.7695023937366,554
+2026,Ontario Total,Kawartha Lakes,570.4195023887647,570
+2026,Ontario Total,Kenora,554.4695023955652,554
+2026,Ontario Total,Kingston,1179.6028357244797,1180
+2026,Ontario Total,Kitchener - Cambridge - Waterloo,6467.292042257678,6467
+2026,Ontario Total,London,4400.836169055009,4401
+2026,Ontario Total,Midland,573.6195023904625,574
+2026,Ontario Total,Norfolk,610.3528357236163,610
+2026,Ontario Total,North Bay,732.2028357290538,732
+2026,Ontario Total,Orillia,605.0028357281079,605
+2026,Ontario Total,Oshawa,2164.319502390278,2164
+2026,Ontario Total,Other - Ontario,1874.4695023898512,1874
+2026,Ontario Total,Ottawa - Gatineau (Ontario part),19078.707017497058,19079
+2026,Ontario Total,Owen Sound,585.0361690611842,585
+2026,Ontario Total,Pembroke,550.1861690606506,550
+2026,Ontario Total,Petawawa,547.2861690586958,547
+2026,Ontario Total,Peterborough,877.5361690598891,878
+2026,Ontario Total,Port Hope,545.0695023938724,545
+2026,Ontario Total,Sarnia,730.0361690554071,730
+2026,Ontario Total,Sault Ste. Marie,961.3528357244797,961
+2026,Ontario Total,St. Catharines - Niagara,2167.0861690564498,2167
+2026,Ontario Total,Stratford,635.9695023960455,636
+2026,Ontario Total,Thunder Bay,1104.5528357246396,1105
+2026,Ontario Total,Tillsonburg,549.7195023921602,550
+2026,Ontario Total,Timmins,687.1695023924027,687
+2026,Ontario Total,Toronto,118925.66654859122,118926
+2026,Ontario Total,Wasaga Beach,549.5361690581041,550
+2026,Ontario Total,Windsor,3345.5528357230874,3346
+2026,Ontario Total,Woodstock,689.3528357272154,689
+2026,Prince Edward Island Total,Charlottetown,2021.707647135068,2022
+2026,Prince Edward Island Total,Other - Prince Edward Island,880.8909804729126,881
+2026,Prince Edward Island Total,Summerside,882.524313799096,883
+2026,Province/territory not stated,Other ,559.090291824387,559
+2026,Quebec Total,Alma,563.2923007054139,563
+2026,Quebec Total,Amos,548.6756340375298,549
+2026,Quebec Total,Baie-Comeau,569.9923007111668,570
+2026,Quebec Total,Cowansville,556.0256340414443,556
+2026,Quebec Total,Dolbeau-Mistassini,546.1589673759951,546
+2026,Quebec Total,Drummondville,832.3589673773921,832
+2026,Quebec Total,Granby,711.0089673749814,711
+2026,Quebec Total,Hawkesbury (Quebec part),542.1089673776734,542
+2026,Quebec Total,Joliette,618.5423007067916,619
+2026,Quebec Total,Lachute,542.6589673719642,543
+2026,Quebec Total,Matane,550.7923007083534,551
+2026,Quebec Total,Montréal,38717.53795341506,38718
+2026,Quebec Total,Other - Quebec,2110.6089673709503,2111
+2026,Quebec Total,Ottawa - Gatineau (Quebec part),1788.2089673705138,1788
+2026,Quebec Total,Québec,4716.608967368054,4717
+2026,Quebec Total,Rimouski,649.1589673758883,649
+2026,Quebec Total,Rivière-du-Loup,584.4756340420894,584
+2026,Quebec Total,Rouyn-Noranda,727.1256340413618,727
+2026,Quebec Total,Saguenay,759.9923007097892,760
+2026,Quebec Total,Saint-Georges,636.6256340402753,637
+2026,Quebec Total,Saint-Hyacinthe,694.6089673766742,695
+2026,Quebec Total,Sainte-Agathe-des-Monts,549.4923007081109,549
+2026,Quebec Total,Sainte-Marie,569.7423007075142,570
+2026,Quebec Total,Salaberry-de-Valleyfield,584.3589673723523,584
+2026,Quebec Total,Sept-Îles,580.7589673756555,581
+2026,Quebec Total,Shawinigan,597.9923007063065,598
+2026,Quebec Total,Sherbrooke,1327.7256340353906,1328
+2026,Quebec Total,Sorel-Tracy,566.4089673762376,566
+2026,Quebec Total,Thetford Mines,583.7923007124086,584
+2026,Quebec Total,Trois-Rivières,1113.458967371741,1113
+2026,Quebec Total,Val-d'Or,595.1923007121612,595
+2026,Quebec Total,Victoriaville,639.0589673763686,639
+2026,Saskatchewan Total,Estevan,665.9405398714882,666
+2026,Saskatchewan Total,Lloydminster (Saskatchewan part),661.2738732077853,661
+2026,Saskatchewan Total,Moose Jaw,1024.2738732058692,1024
+2026,Saskatchewan Total,North Battleford,756.9572065428841,757
+2026,Saskatchewan Total,Other - Saskatchewan,2189.5238732003736,2190
+2026,Saskatchewan Total,Prince Albert,1008.7072065432334,1009
+2026,Saskatchewan Total,Regina,6041.605989023013,6042
+2026,Saskatchewan Total,Saskatoon,6397.815479847227,6398
+2026,Saskatchewan Total,Swift Current,722.0738732101329,722
+2026,Saskatchewan Total,Weyburn,662.8905398734623,663
+2026,Saskatchewan Total,Yorkton,732.1238732088136,732
+2026,Yukon Total,Other - Yukon,542.3902433729411,542
+2026,Yukon Total,"Territories (outside Census agglomeration, Yukon)",577.3569100418489,577
+2026,Yukon Total,Whitehorse,953.606910039831,954
+2027,Alberta Total,Brooks,1101.911947383427,1102
+2027,Alberta Total,Calgary,25426.590202636013,25427
+2027,Alberta Total,Camrose,647.5452807193896,648
+2027,Alberta Total,Canmore,719.8786140553761,720
+2027,Alberta Total,Edmonton,19530.60770795524,19531
+2027,Alberta Total,Grande Prairie,1192.0452807141412,1192
+2027,Alberta Total,High River,663.9452807211115,664
+2027,Alberta Total,Lacombe,639.5452807192052,640
+2027,Alberta Total,Lethbridge,1156.8786140500647,1157
+2027,Alberta Total,Lloydminster (Alberta part),675.995280718337,676
+2027,Alberta Total,Medicine Hat,842.895280718206,843
+2027,Alberta Total,Okotoks,658.0286140555314,658
+2027,Alberta Total,Other - Alberta,2865.9286140494,2866
+2027,Alberta Total,Red Deer,1244.9952807149948,1245
+2027,Alberta Total,Strathmore,624.7286140565403,625
+2027,Alberta Total,Sylvan Lake,619.0786140536154,619
+2027,Alberta Total,Wetaskiwin,639.5952807215674,640
+2027,Alberta Total,Wood Buffalo,1465.8786140486143,1466
+2027,British Columbia Total,Abbotsford - Mission,2009.0794813998298,2009
+2027,British Columbia Total,Campbell River,667.9961480670785,668
+2027,British Columbia Total,Chilliwack,854.3628147319649,854
+2027,British Columbia Total,Courtenay,717.3961480650848,717
+2027,British Columbia Total,Cranbrook,635.4628147321445,635
+2027,British Columbia Total,Dawson Creek,689.8461480678594,690
+2027,British Columbia Total,Duncan,678.7128147321929,679
+2027,British Columbia Total,Fort St. John,763.796148064595,764
+2027,British Columbia Total,Kamloops,990.362814733813,990
+2027,British Columbia Total,Kelowna,1524.2961480674956,1524
+2027,British Columbia Total,Ladysmith,596.2128147321929,596
+2027,British Columbia Total,Nanaimo,999.8294813960996,1000
+2027,British Columbia Total,Nelson,696.546148067714,697
+2027,British Columbia Total,Other - British Columbia,1940.2128147324597,1940
+2027,British Columbia Total,Parksville,618.2628147376984,618
+2027,British Columbia Total,Penticton,691.379481399369,691
+2027,British Columbia Total,Port Alberni,613.9128147340459,614
+2027,British Columbia Total,Powell River,607.0294814005816,607
+2027,British Columbia Total,Prince George,920.2461480648957,920
+2027,British Columbia Total,Prince Rupert,618.7294814038848,619
+2027,British Columbia Total,Quesnel,612.1628147340459,612
+2027,British Columbia Total,Salmon Arm,651.4961480648569,651
+2027,British Columbia Total,Squamish,748.929481401673,749
+2027,British Columbia Total,Terrace,685.0794814000674,685
+2027,British Columbia Total,Trail,630.5128147330757,631
+2027,British Columbia Total,Vancouver,43957.650510754545,43958
+2027,British Columbia Total,Vernon,872.2961480644931,872
+2027,British Columbia Total,Victoria,2571.879481392224,2572
+2027,British Columbia Total,Williams Lake,629.6628147356805,630
+2027,Manitoba Total,Brandon,1629.1783257811933,1629
+2027,Manitoba Total,Other - Manitoba,1764.4616591063095,1764
+2027,Manitoba Total,Portage la Prairie,722.3616591103939,722
+2027,Manitoba Total,Steinbach,836.2783257784575,836
+2027,Manitoba Total,Thompson,752.7116591072071,753
+2027,Manitoba Total,Winkler,1206.511659110394,1207
+2027,Manitoba Total,Winnipeg,15461.066818610056,15461
+2027,New Brunswick Total,Bathurst,785.4950027428113,785
+2027,New Brunswick Total,Campbellton (New Brunswick part),644.5616694060583,645
+2027,New Brunswick Total,Edmundston,954.4283360724532,954
+2027,New Brunswick Total,Fredericton,1773.7950027313443,1774
+2027,New Brunswick Total,Miramichi,732.9783360742771,733
+2027,New Brunswick Total,Moncton,3876.2616693993596,3876
+2027,New Brunswick Total,Other - New Brunswick,1567.5950027379897,1568
+2027,New Brunswick Total,Saint John,1758.745002736161,1759
+2027,Newfoundland and Labrador Total,Corner Brook,712.311569457708,712
+2027,Newfoundland and Labrador Total,Gander,690.7782361211441,691
+2027,Newfoundland and Labrador Total,Grand Falls-Windsor,617.4282361241369,617
+2027,Newfoundland and Labrador Total,Other - Newfoundland and Labrador,1176.3949027915166,1176
+2027,Newfoundland and Labrador Total,St. John's,2524.944902786074,2525
+2027,Northwest Territories Total,Other - Northwest Territories,589.1280396832203,589
+2027,Northwest Territories Total,"Territories (outside Census agglomeration, Northwest Territories)",605.2447063533164,605
+2027,Northwest Territories Total,Yellowknife,781.1280396802905,781
+2027,Nova Scotia Total,Cape Breton,936.5783483923667,937
+2027,Nova Scotia Total,Halifax,6877.1240217385775,6877
+2027,Nova Scotia Total,Kentville,750.6950150620795,751
+2027,Nova Scotia Total,New Glasgow,671.6116817276984,672
+2027,Nova Scotia Total,Other - Nova Scotia,1561.0283483947774,1561
+2027,Nova Scotia Total,Truro,824.0116817256369,824
+2027,Nunavut Total,Other - Nunavut,588.9285412786141,589
+2027,Nunavut Total,"Territories (outside Census agglomeration, Nunavut)",613.9785412795941,614
+2027,Ontario Total,Barrie,1374.3240368737684,1374
+2027,Ontario Total,Belleville - Quinte West,826.9073702116566,827
+2027,Ontario Total,Brantford,1079.5407035473231,1080
+2027,Ontario Total,Brockville,612.6907035433117,613
+2027,Ontario Total,Centre Wellington,608.1907035409785,608
+2027,Ontario Total,Chatham-Kent,779.6073702116178,780
+2027,Ontario Total,Cobourg,603.4907035408476,603
+2027,Ontario Total,Collingwood,625.6907035474784,626
+2027,Ontario Total,Cornwall,917.1073702130196,917
+2027,Ontario Total,Elliot Lake,589.2240368749084,589
+2027,Ontario Total,Essa,624.0240368767566,624
+2027,Ontario Total,Greater Sudbury,1319.1240368754904,1319
+2027,Ontario Total,Guelph,1721.3407035374375,1721
+2027,Ontario Total,Hamilton,4622.413058948785,4622
+2027,Ontario Total,Hawkesbury (Ontario part),680.590703544306,681
+2027,Ontario Total,Ingersoll,600.7073702118895,601
+2027,Ontario Total,Kawartha Lakes,617.3573702069176,617
+2027,Ontario Total,Kenora,601.4073702137181,601
+2027,Ontario Total,Kingston,1226.5407035426326,1227
+2027,Ontario Total,Kitchener - Cambridge - Waterloo,6514.229910075831,6514
+2027,Ontario Total,London,4447.774036873162,4448
+2027,Ontario Total,Midland,620.5573702086153,621
+2027,Ontario Total,Norfolk,657.2907035417692,657
+2027,Ontario Total,North Bay,779.1407035472066,779
+2027,Ontario Total,Orillia,651.9407035462608,652
+2027,Ontario Total,Oshawa,2211.257370208431,2211
+2027,Ontario Total,Other - Ontario,1921.407370208004,1921
+2027,Ontario Total,Ottawa - Gatineau (Ontario part),19125.64488531521,19126
+2027,Ontario Total,Owen Sound,631.9740368793371,632
+2027,Ontario Total,Pembroke,597.1240368788035,597
+2027,Ontario Total,Petawawa,594.2240368768487,594
+2027,Ontario Total,Peterborough,924.4740368780419,924
+2027,Ontario Total,Port Hope,592.0073702120253,592
+2027,Ontario Total,Sarnia,776.97403687356,777
+2027,Ontario Total,Sault Ste. Marie,1008.2907035426326,1008
+2027,Ontario Total,St. Catharines - Niagara,2214.0240368746026,2214
+2027,Ontario Total,Stratford,682.9073702141984,683
+2027,Ontario Total,Thunder Bay,1151.4907035427925,1151
+2027,Ontario Total,Tillsonburg,596.657370210313,597
+2027,Ontario Total,Timmins,734.1073702105555,734
+2027,Ontario Total,Toronto,118972.60441640938,118973
+2027,Ontario Total,Wasaga Beach,596.474036876257,596
+2027,Ontario Total,Windsor,3392.4907035412402,3392
+2027,Ontario Total,Woodstock,736.2907035453683,736
+2027,Prince Edward Island Total,Charlottetown,2068.6455149532208,2069
+2027,Prince Edward Island Total,Other - Prince Edward Island,927.8288482910655,928
+2027,Prince Edward Island Total,Summerside,929.4621816172489,929
+2027,Province/territory not stated,Other ,606.0281596425399,606
+2027,Quebec Total,Alma,610.2301685235668,610
+2027,Quebec Total,Amos,595.6135018556827,596
+2027,Quebec Total,Baie-Comeau,616.9301685293196,617
+2027,Quebec Total,Cowansville,602.9635018595972,603
+2027,Quebec Total,Dolbeau-Mistassini,593.096835194148,593
+2027,Quebec Total,Drummondville,879.296835195545,879
+2027,Quebec Total,Granby,757.9468351931341,758
+2027,Quebec Total,Hawkesbury (Quebec part),589.0468351958262,589
+2027,Quebec Total,Joliette,665.4801685249445,665
+2027,Quebec Total,Lachute,589.5968351901171,590
+2027,Quebec Total,Matane,597.7301685265063,598
+2027,Quebec Total,Montréal,38764.475821233216,38764
+2027,Quebec Total,Other - Quebec,2157.546835189103,2158
+2027,Quebec Total,Ottawa - Gatineau (Quebec part),1835.1468351886667,1835
+2027,Quebec Total,Québec,4763.546835186207,4764
+2027,Quebec Total,Rimouski,696.0968351940412,696
+2027,Quebec Total,Rivière-du-Loup,631.4135018602423,631
+2027,Quebec Total,Rouyn-Noranda,774.0635018595146,774
+2027,Quebec Total,Saguenay,806.9301685279421,807
+2027,Quebec Total,Saint-Georges,683.5635018584281,684
+2027,Quebec Total,Saint-Hyacinthe,741.546835194827,742
+2027,Quebec Total,Sainte-Agathe-des-Monts,596.4301685262637,596
+2027,Quebec Total,Sainte-Marie,616.6801685256671,617
+2027,Quebec Total,Salaberry-de-Valleyfield,631.2968351905051,631
+2027,Quebec Total,Sept-Îles,627.6968351938084,628
+2027,Quebec Total,Shawinigan,644.9301685244594,645
+2027,Quebec Total,Sherbrooke,1374.6635018535435,1375
+2027,Quebec Total,Sorel-Tracy,613.3468351943905,613
+2027,Quebec Total,Thetford Mines,630.7301685305615,631
+2027,Quebec Total,Trois-Rivières,1160.3968351898939,1160
+2027,Quebec Total,Val-d'Or,642.1301685303141,642
+2027,Quebec Total,Victoriaville,685.9968351945215,686
+2027,Saskatchewan Total,Estevan,712.8784076896411,713
+2027,Saskatchewan Total,Lloydminster (Saskatchewan part),708.2117410259382,708
+2027,Saskatchewan Total,Moose Jaw,1071.211741024022,1071
+2027,Saskatchewan Total,North Battleford,803.895074361037,804
+2027,Saskatchewan Total,Other - Saskatchewan,2236.4617410185265,2236
+2027,Saskatchewan Total,Prince Albert,1055.6450743613864,1056
+2027,Saskatchewan Total,Regina,6088.5438568411655,6089
+2027,Saskatchewan Total,Saskatoon,6444.75334766538,6445
+2027,Saskatchewan Total,Swift Current,769.0117410282858,769
+2027,Saskatchewan Total,Weyburn,709.8284076916152,710
+2027,Saskatchewan Total,Yorkton,779.0617410269665,779
+2027,Yukon Total,Other - Yukon,589.328111191094,589
+2027,Yukon Total,"Territories (outside Census agglomeration, Yukon)",624.2947778600018,624
+2027,Yukon Total,Whitehorse,1000.5447778579838,1001
